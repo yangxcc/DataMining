@@ -1,0 +1,299 @@
+star_rating	helpful_votes	total_votes	review_headline	review_date
+4	0	0	Not bad!!	8/25/2015
+4	1	1	I love this hair dryer	8/24/2015
+5	0	0	Great price!! Great dryer	8/22/2015
+5	0	0	Love the retractable cord.	7/26/2015
+5	0	0	Love it!	7/22/2015
+5	0	0	Nice hair dryer. No complaints	7/10/2015
+5	0	0	hair dryer	6/29/2015
+5	0	0	Worth the investment!	6/29/2015
+5	0	0	Great hair care product!	6/25/2015
+3	0	0	I thought I was buying the same dryer as my ...	6/23/2015
+5	0	0	Five Stars	6/23/2015
+4	0	0	Great product! The retractable cord is really nice	6/21/2015
+5	0	0	"Great hairdryer, great price"	6/9/2015
+5	0	0	Great Hair Dryer	6/9/2015
+4	0	0	It's as good as my last conair but a bit less powerful ...	6/7/2015
+3	0	0	Conair 1875 Watt Blow Dryer	6/6/2015
+5	0	0	It has great power.	6/5/2015
+5	0	0	Best dryer. No cord getting in the way.	6/2/2015
+5	0	0	My Cord Keeper is a KEEPER!	5/30/2015
+5	0	0	The best hair dryer	5/28/2015
+4	0	0	Good	5/17/2015
+5	0	0	Five Stars	5/14/2015
+5	0	0	** The Best Hair Drying Styler Ever! **	5/14/2015
+5	0	0	Retractable cord and fantastic diffuser	4/28/2015
+5	0	0	Great for travel!	4/26/2015
+5	0	0	I bought this exact hairdryer more than 5 years ago ...	4/21/2015
+5	0	0	perfect	4/20/2015
+5	1	1	"Quiet, thank God"	4/19/2015
+4	0	0	Still nice.	4/10/2015
+5	1	2	spend the extra money on this model	3/30/2015
+3	0	0	Record time drying.	3/26/2015
+3	0	0	"This works good, but not as good as my old one ..."	3/25/2015
+4	1	1	The Wife Likes It	3/24/2015
+5	0	0	Daughter loves it.	3/20/2015
+5	0	0	Five Stars	3/17/2015
+4	0	1	Four Stars	3/13/2015
+5	0	0	Five Stars	3/12/2015
+5	0	0	Five Stars	3/7/2015
+5	0	0	hair dryer is good	3/7/2015
+5	0	1	This is the best hair dryer	3/6/2015
+4	0	0	"May not be the color you see in sales, but it runs great!"	2/24/2015
+4	1	1	Four Stars	2/22/2015
+5	0	3	vacuum? or blow dryer?	2/17/2015
+4	1	1	Four Stars	2/6/2015
+4	0	0	I loved this blow dryer	2/5/2015
+5	0	0	Five Stars	2/3/2015
+5	0	0	good	2/2/2015
+5	0	0	Five Stars	1/21/2015
+4	2	2	It still works like the first day i had it	1/21/2015
+5	0	0	The only one i'll use	1/13/2015
+5	0	1	She love it!	1/9/2015
+4	0	2	Four Stars	1/8/2015
+3	0	2	Three Stars	1/2/2015
+5	0	1	My favorite!!	1/1/2015
+5	0	0	Great hair dryer	12/29/2014
+3	1	1	Just Okay	12/12/2014
+5	0	0	Five Stars	12/9/2014
+3	0	0	Three Stars	12/8/2014
+5	0	0	"Works great, but it makes our apartment fuse blow every ..."	12/3/2014
+4	0	0	Four Stars	11/23/2014
+5	0	0	yes you must get one.	11/20/2014
+4	0	0	Great hair dryer	11/4/2014
+5	0	0	This Conair product is my favorite. This is the best dryer	10/26/2014
+5	0	0	Five Stars	10/13/2014
+5	0	0	Five Stars	10/2/2014
+4	0	0	Four Stars	10/2/2014
+5	0	0	... for almost a year every day and still works fine!	9/28/2014
+4	0	0	Four Stars	9/27/2014
+4	0	0	It works great. Live the retractable cord	9/25/2014
+5	0	0	great dryer	9/7/2014
+5	0	0	I love this hair dryer	9/6/2014
+5	0	0	Just what I needed	9/4/2014
+4	0	0	"I got this to replace one just like it, because I love the hair dryer"	8/27/2014
+3	0	0	Three Stars	8/25/2014
+5	1	1	Five Stars	8/25/2014
+5	0	0	Great Product! Easy to use	8/21/2014
+5	0	0	Good Quality	8/20/2014
+4	0	0	practical and durable	8/19/2014
+5	0	0	Five Stars	8/15/2014
+3	0	0	The cord hiding in the hair dryer seems like a waste - I prefer the lighter model	8/10/2014
+4	0	0	Too weak for my thick hair	8/8/2014
+4	0	0	Cool	8/7/2014
+3	0	0	For me this hairdryer is a little heavy and takes ...	8/3/2014
+5	0	0	Five Stars	7/30/2014
+5	0	0	take my breath away	7/28/2014
+4	0	0	but dryer works fine!	7/24/2014
+5	0	0	Five Stars	7/23/2014
+5	0	0	One of the BEST!	7/23/2014
+5	0	0	Five Stars	7/18/2014
+5	0	0	Five Stars	7/16/2014
+4	0	0	Four Stars	7/15/2014
+4	0	0	Four Stars	7/14/2014
+5	0	0	Quiet and quick	7/14/2014
+4	0	0	Buy it now	7/12/2014
+4	0	0	Four Stars	7/12/2014
+2	1	1	Two Stars	7/7/2014
+5	0	0	Five Stars	7/4/2014
+5	0	0	Quiet!	7/3/2014
+3	0	0	It's nothing special...	6/27/2014
+4	0	0	hair dryer	6/26/2014
+5	0	0	How Great is This Dryer!!!	6/24/2014
+3	6	7	"I loved this hair dryer, but..."	6/19/2014
+5	0	0	Works great.  Lots of features	6/17/2014
+4	0	0	Good Blowdryer	6/17/2014
+5	0	0	Awesome	6/16/2014
+5	0	0	Great Product and Super Fast Shipping	6/16/2014
+5	0	0	Like it a lot	6/15/2014
+3	0	0	Just okay	6/14/2014
+3	0	0	Does a good job...	6/6/2014
+5	0	0	Best hair dryer I've ever purchased	6/2/2014
+5	0	0	awesome blow dryer	5/23/2014
+5	0	0	Best Ever	5/23/2014
+5	0	0	GREAT HAIR DRYER	5/22/2014
+5	0	0	A really great hair dryer	5/22/2014
+5	0	0	The best	5/20/2014
+5	0	0	hairdryer	5/16/2014
+5	0	0	Best blowdryer..on my second one!	5/8/2014
+5	0	0	Used it first time last night	5/8/2014
+4	0	0	great hair dryer	5/4/2014
+4	1	1	A good value with good features	4/25/2014
+5	1	1	Great Hair Dryer	4/17/2014
+5	1	1	Reeled cord is an improvement that is LONG overdue!!	4/14/2014
+5	1	1	Great Hair Dryer	4/12/2014
+5	1	1	No more tangled cords!	4/11/2014
+5	0	0	Great hair Dryer	4/11/2014
+5	0	0	Smooths hair	4/10/2014
+5	0	0	Quiet and powerful	4/10/2014
+3	0	0	Decent dryer	4/8/2014
+5	0	0	Love the retractable cord	3/31/2014
+5	0	0	I bought another	3/27/2014
+2	0	0	It's alright.	3/23/2014
+5	1	1	Great Hairdrier	3/22/2014
+4	0	0	good value	3/19/2014
+5	0	0	Great Hair Dryer	3/8/2014
+5	0	0	OH MY!!!  I LOVE IT	3/7/2014
+5	0	0	Good Quality - Fast Delivery	3/7/2014
+5	0	0	Very quick shipping	3/7/2014
+3	0	0	BIG dryer	3/5/2014
+5	0	0	Second one I've purchased....	3/5/2014
+5	0	0	Super Hairdryer	3/4/2014
+5	0	0	GREAT HAIR DRYER!	2/27/2014
+5	0	0	Love it	2/26/2014
+5	0	0	Love Love Love	2/19/2014
+5	0	0	Pinkness	2/19/2014
+3	0	0	Mid heat setting is too cool	2/16/2014
+5	0	0	Still loving this hair dryer	2/14/2014
+3	0	0	Too heavy	2/13/2014
+5	1	1	"Quality hair dryer, low price."	2/13/2014
+3	0	0	"Does the job, but going to keep looking"	2/8/2014
+3	0	0	Retractable Cord	1/22/2014
+5	0	0	"Christmas present, but"	1/17/2014
+5	2	2	My new favorite hair dryer	1/13/2014
+5	0	0	Turbo hair dryer.	1/12/2014
+5	0	0	Fast Dry	1/12/2014
+4	0	0	Infiniti Conair 223NP Hair Dryer Affer Ownership	1/10/2014
+2	0	0	Conair223NP Hair Dryer 1875 watt w/retractable Cord	1/9/2014
+3	0	0	Cheap but good. On my 3rd or 4th one!	1/8/2014
+5	0	0	Why did i wait so long to get this?	1/7/2014
+4	0	0	Wife loves it	1/6/2014
+5	0	0	has lasted well	1/2/2014
+4	0	0	Retractable Cord	12/30/2013
+5	0	0	Five Stars	12/29/2013
+5	0	0	Great	12/28/2013
+4	0	0	3 yrs strong	12/27/2013
+5	1	1	Handheld Hairdryer Issue FIXED by Conair!	12/27/2013
+5	0	0	Dries my hair completly	12/26/2013
+5	0	0	Great product	12/24/2013
+5	0	0	Retractable cord is great	12/18/2013
+5	1	1	Quiet and drys hair fast!! Love the retractable cord.	12/15/2013
+2	0	0	NOT INFINITI!	12/14/2013
+2	1	1	Not long lived	12/10/2013
+4	0	0	Frizz-free drying	12/3/2013
+5	0	0	"great hairdryer, for a great price."	12/1/2013
+5	0	0	My favorite hair dryer ever!	12/1/2013
+5	0	0	Perfect for vanity top usage!	11/23/2013
+4	0	0	"A Hair Dryer, Nothing to Write Home About"	11/21/2013
+5	0	0	Better than my salon quality dryers	11/13/2013
+5	0	0	Great hair dryer!!	11/11/2013
+4	0	0	Standard	11/7/2013
+5	0	0	Perfect for personal use	11/2/2013
+5	0	0	Good hair dryer	11/1/2013
+4	0	0	Great hairdryer	10/29/2013
+3	0	0	Okay	10/25/2013
+3	0	0	Not bad	10/20/2013
+4	0	0	Good product	10/19/2013
+5	0	0	Infinity by Conair	10/17/2013
+5	0	0	Love it!	10/8/2013
+4	0	0	great	9/30/2013
+3	1	2	Not its predecessor	9/26/2013
+5	0	0	Mother's Day gift	9/21/2013
+5	0	0	Great product	9/21/2013
+3	0	0	"Good price, okay product"	9/20/2013
+5	0	0	Powerful!	9/11/2013
+2	0	0	Doesn't get hot enough	9/3/2013
+5	0	0	Great product	9/2/2013
+4	0	1	like it	9/1/2013
+5	0	0	LOVE IT	8/23/2013
+4	0	0	Gift for my daughter.	8/19/2013
+5	0	0	Happy with purchase	8/6/2013
+4	0	0	"Quick dry, not excessively hot"	8/6/2013
+5	0	0	The wife loves it	8/2/2013
+5	0	0	perfect	7/30/2013
+5	0	0	Excellent	7/22/2013
+5	0	0	Does what it says it does	7/8/2013
+1	2	2	stay away	6/29/2013
+3	1	1	Retractable cord: Great Idea when it works	6/25/2013
+3	1	1	It's ok	6/24/2013
+1	0	1	Really dissappointed	6/20/2013
+5	0	0	Best selfish purchase ever	6/20/2013
+5	0	0	Perfect dryer!	6/18/2013
+3	0	0	Nothing special	6/9/2013
+5	0	0	"How do i use this product in Africa,already got one."	6/9/2013
+5	0	0	best dryer I have ever had	5/24/2013
+4	0	0	"Quality hairdryer. Great if you want a short, retractable cord, but definitely heavy"	5/20/2013
+3	0	0	Not strong enough	5/19/2013
+4	0	0	Just what I was looking for	5/16/2013
+1	6	8	HATE IT!	5/2/2013
+4	0	0	Value for the price	4/30/2013
+3	0	0	Blow dryer	4/30/2013
+5	0	0	I really love it!!!	4/21/2013
+4	0	0	"Good, not perfect."	4/21/2013
+5	0	0	worth the cost	4/17/2013
+5	0	0	Works GREAT	4/16/2013
+5	0	0	Excellent!	4/16/2013
+4	0	0	Gets hot fast.	4/11/2013
+5	0	0	Love it	4/11/2013
+5	1	1	Great dryer and easy to store away	4/6/2013
+4	2	2	"Dries my hair with less heat, in the same amount of time."	4/5/2013
+4	0	0	okay	4/5/2013
+3	2	2	"Dries fast, vibrates in your hand"	3/26/2013
+5	0	0	Going on a year...love it	3/15/2013
+5	0	0	wonderful	3/9/2013
+4	0	0	Great Blowdryer	3/7/2013
+4	0	0	"Good dryer, if you can get at a good price"	3/6/2013
+4	0	0	Very good	3/2/2013
+1	9	9	It broke£¡	2/28/2013
+5	0	0	great christmas present	2/24/2013
+2	1	1	Heavy and Vibrates	2/23/2013
+4	0	0	Love it	2/20/2013
+4	0	0	High heat and working retractable cord	2/18/2013
+5	1	1	Love it so much!	2/8/2013
+5	0	0	Great	2/1/2013
+3	0	0	Hair Dryer	1/26/2013
+5	0	0	I love it	1/17/2013
+3	0	0	Weak motor	1/14/2013
+5	0	0	conair	1/10/2013
+1	0	1	Broke right away	1/9/2013
+5	0	0	Great Christmas Present!	1/4/2013
+5	0	0	Love this dryer.	12/30/2012
+5	0	0	Loved this!	12/29/2012
+5	0	0	Infiniti  Dryer	12/29/2012
+5	0	0	Great product	12/28/2012
+5	0	0	Love it	12/28/2012
+4	1	1	great dryer	12/8/2012
+5	0	0	Continues to Please...	12/6/2012
+5	0	0	Conair Infiniti	12/4/2012
+5	0	0	Very nice hairdryer.	12/2/2012
+5	0	0	Best Hair Dryer Ever	11/26/2012
+5	1	1	Good Value and lots of Power	11/23/2012
+5	0	0	pink blow dryer	11/1/2012
+5	0	0	Infinity by Conair 223XR 1875 Watt Touraline Hair dryer	10/31/2012
+5	0	0	"The hair dryer for life, this is the best hairdryer ever"	9/29/2012
+3	0	0	"Works, but was expecting super fast drying"	9/26/2012
+3	0	0	Eh...	9/21/2012
+5	0	0	Works amazing	7/17/2012
+4	0	0	Gets the job done	7/9/2012
+4	0	0	infiniti blow dryer	6/21/2012
+5	0	0	Great  Dryer at Good Price	6/20/2012
+5	0	0	Good deal!	6/20/2012
+3	1	2	Blown away	6/13/2012
+1	5	6	Great While It Worked	6/6/2012
+5	0	0	Great product!!	6/4/2012
+5	0	0	Love this hairdryer!	6/1/2012
+3	0	0	Be strong girls	5/15/2012
+5	0	0	I love it	5/11/2012
+4	0	0	Great for fine hair	5/11/2012
+5	0	0	Love the cord reel!	5/9/2012
+3	1	1	Great hairdryer until something breaks	4/24/2012
+5	0	0	GREAT hairdryer	4/2/2012
+5	0	0	Perfect in EVERY way!	4/2/2012
+3	0	0	Retrater Hassle	2/4/2012
+4	0	0	Good product but slide buttons need to be raised for better on-off actions	2/3/2012
+1	0	1	Bad choice	2/2/2012
+5	1	1	Hair dryer	1/9/2012
+5	0	0	great hair dryer	1/6/2012
+3	11	14	A little disappointed in Amazon this time...	12/20/2011
+5	1	1	Great blow dryer	9/19/2011
+5	0	0	Best blower	7/1/2011
+5	1	1	conair cord reel #223 hair dryer	6/17/2011
+5	0	0	the best hair dryer ever!	4/1/2011
+3	1	2	"Not as strong as I would like, and a bit overhyped by magazines"	2/9/2011
+5	1	1	Very happy with this purchase	2/3/2011
+3	0	0	"Dryer Great,,,, Conair, Not So Great"	1/27/2011
+5	0	0	Great so far!	1/13/2011
+2	2	2	Stopped working after 10 months	12/14/2009
+5	0	0	great dryer	9/11/2009
+4	0	1	Works well	5/26/2009
+5	1	1	Love it!	5/6/2009

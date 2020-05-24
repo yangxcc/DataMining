@@ -1,0 +1,377 @@
+star_rating	helpful_votes	total_votes	review_headline	review_date
+5	0	0	Best ever	8/22/2015
+5	0	0	Love it	8/22/2015
+4	0	0	I wish it was a little bit stronger and a ...	8/20/2015
+5	0	0	Five Stars	8/20/2015
+3	0	1	Not very powerful but its cute!	8/17/2015
+4	0	0	Great blowdryer for the price that gets the job done	8/14/2015
+3	0	0	I like the dryer - I know this will sound silly ...	8/12/2015
+5	0	0	Five Stars	8/11/2015
+2	1	1	High setting stopped working on second use	8/11/2015
+5	0	0	Awesome	8/10/2015
+4	0	0	Four Stars	8/6/2015
+5	0	0	Five Stars	8/4/2015
+5	0	0	Five Stars	8/3/2015
+5	0	0	Five Stars	8/3/2015
+5	0	0	Five Stars	8/2/2015
+5	0	0	Five Stars	8/1/2015
+5	0	0	Five Stars	7/30/2015
+5	0	0	Five Stars	7/29/2015
+5	0	0	BestBUY	7/28/2015
+1	0	0	Total disappointment!	7/26/2015
+1	0	0	nahh	7/15/2015
+4	0	0	Four Stars	7/14/2015
+5	0	0	Five Stars	7/12/2015
+5	0	0	Five Stars	7/12/2015
+4	0	0	Four Stars	7/7/2015
+3	0	0	Works as a blow drier but not as well as ...	7/4/2015
+4	0	0	Pretty decent power	7/3/2015
+4	0	0	I bought this hair dryer recently but i ordered a ...	7/2/2015
+5	0	0	Five Stars	7/1/2015
+5	0	0	Great dryer for occasional use	6/28/2015
+3	0	0	Three Stars	6/24/2015
+5	0	0	great product for a great value	6/24/2015
+5	0	0	Five Stars	6/22/2015
+5	0	0	Five Stars	6/21/2015
+5	0	0	Love it	6/20/2015
+3	0	0	Three Stars	6/18/2015
+4	0	0	Four Stars	6/18/2015
+5	0	0	Five Stars	6/16/2015
+3	0	0	Functional	6/16/2015
+5	0	0	Five Stars	6/14/2015
+5	0	0	It works	6/14/2015
+5	0	0	Five Stars	6/11/2015
+2	1	2	Would not recommend using for long period of time	6/10/2015
+5	0	0	Five Stars	6/9/2015
+5	0	0	Five Stars	6/4/2015
+5	0	0	Totally satisfied.	6/3/2015
+5	0	1	Five Stars	5/26/2015
+5	0	0	Five Stars	5/25/2015
+3	0	0	... my daughter it isn't hot enough for me but awesome for my 10yr old to dry her thin/fine hair	5/24/2015
+4	0	0	Four Stars	5/24/2015
+5	0	0	Beard dryer and styler	5/20/2015
+5	0	0	Five Stars	5/19/2015
+4	0	0	Four Stars	5/18/2015
+4	0	0	Good hair dryer for the price	5/15/2015
+2	1	1	do not buy it	5/14/2015
+5	0	0	Five Stars	5/14/2015
+5	0	0	Good Powerful Dryer	5/7/2015
+5	0	0	Five Stars	5/5/2015
+4	0	0	Four Stars	4/29/2015
+5	0	0	Five Stars	4/29/2015
+5	1	1	Five Stars	4/28/2015
+4	10	11	Scuff marks on Concentrator	4/28/2015
+1	2	2	sorry piece of equipment.	4/24/2015
+5	1	1	"Works well, used for a whole 2 hours to ..."	4/21/2015
+5	0	0	Five Stars	4/18/2015
+5	0	0	Five Stars	4/18/2015
+5	0	0	AWESOME PRODUCT.... STANDS BY ITS NAME	4/16/2015
+5	0	0	Five Stars	4/11/2015
+5	0	0	Five Stars	4/9/2015
+3	1	1	It doesn't blow dry very hot air but I did buy it for a good price and it works	4/3/2015
+5	0	0	Great quality hair dryer	4/1/2015
+5	0	0	Five Stars	4/1/2015
+3	1	1	It's ok	3/29/2015
+1	1	1	I would recommend buying a few levels up as I have had ...	3/29/2015
+5	0	0	Five Stars	3/28/2015
+5	0	0	Five Stars	3/28/2015
+5	0	0	Five Stars	3/26/2015
+5	0	0	Five Stars	3/23/2015
+4	0	0	but it also doesn't seem to make my hair like a burnt crisp	3/23/2015
+5	0	0	"This dryer is awesome, the accessory allows me to pinpoint a section ..."	3/22/2015
+5	0	0	Five Stars	3/22/2015
+5	0	0	Five Stars	3/17/2015
+5	0	0	love	3/17/2015
+5	0	0	Five Stars	3/16/2015
+4	0	0	Four Stars	3/14/2015
+5	0	0	Five Stars	3/12/2015
+5	0	0	Five Stars	3/8/2015
+4	0	0	Four Stars	3/7/2015
+5	0	0	Five Stars	3/5/2015
+5	0	0	Five Stars	3/5/2015
+5	0	0	Five Stars	3/3/2015
+5	1	1	Awesome Dryer	3/3/2015
+5	0	0	Five Stars	3/2/2015
+4	0	0	Four Stars	3/2/2015
+4	0	0	Four Stars	3/2/2015
+4	0	0	"Works good, could use stronger output on low speed"	3/1/2015
+5	0	0	Good value for money	2/27/2015
+5	0	0	Five Stars	2/27/2015
+4	0	0	Four Stars	2/27/2015
+5	0	0	Five Stars	2/27/2015
+4	1	1	I Like It	2/26/2015
+1	0	0	One Star	2/25/2015
+5	0	0	"Doesn't get too hot, LOOKS great (I love pink anything!)"	2/25/2015
+4	0	0	Four Stars	2/25/2015
+3	0	0	eehhh	2/24/2015
+3	0	0	It's okay.	2/23/2015
+5	0	0	Five Stars	2/22/2015
+1	1	1	so credits to Amazon Prime for being fantastic. Unfortunately	2/20/2015
+5	0	0	Five Stars	2/18/2015
+5	0	0	Just order it!	2/14/2015
+5	0	0	Five Stars	2/14/2015
+5	0	0	Teenage Fashionista	2/13/2015
+5	0	0	GOOD STURDY ECONOMICAL DRYER	2/12/2015
+4	0	0	Four Stars	2/12/2015
+5	0	0	Five Stars	2/11/2015
+5	0	0	Dries quickly	2/10/2015
+5	0	0	Five Stars	2/9/2015
+3	0	0	Three Stars	2/7/2015
+5	0	0	Five Stars	2/7/2015
+5	0	0	Five Stars	2/6/2015
+4	2	2	It really blows!	2/6/2015
+5	0	0	Five Stars	2/5/2015
+5	0	0	great item	2/2/2015
+5	0	0	Five Stars	2/1/2015
+3	0	0	... powerful as I would have hoped but it's not bad for a cheap guy	1/28/2015
+5	0	0	Five Stars	1/27/2015
+5	0	0	~!	1/26/2015
+1	0	0	One Star	1/25/2015
+5	0	0	Five Stars	1/21/2015
+5	0	0	Five Stars	1/21/2015
+3	0	0	Works great for her	1/20/2015
+5	0	0	Five Stars	1/16/2015
+4	0	0	It's really good and light weight to carry around But the only ...	1/16/2015
+4	0	0	Happy with Dryer	1/16/2015
+5	0	0	Five Stars	1/14/2015
+3	0	0	Get what you pay for!	1/13/2015
+4	0	0	Four Stars	1/11/2015
+5	0	1	Five Stars	1/10/2015
+5	0	1	Wife and daughter love it.  They fight over it. Ha	1/9/2015
+4	0	0	Worked for me	1/9/2015
+2	0	0	Two Stars	1/7/2015
+4	0	0	Four Stars	1/6/2015
+5	0	0	Five Stars	1/5/2015
+3	0	0	just okay . . .	1/3/2015
+5	0	0	Five Stars	1/1/2015
+4	0	0	Four Stars	12/31/2014
+5	0	0	No problems	12/30/2014
+3	0	0	"The best at this price, but.."	12/29/2014
+2	0	0	An almost great dryer with a fatal flaw	12/29/2014
+5	0	1	Five Stars	12/28/2014
+3	0	0	Three Stars	12/23/2014
+5	0	0	"Even if you pay FIVE TIMES the price,"	12/23/2014
+5	0	1	Five Stars	12/22/2014
+4	0	0	Great for the price	12/22/2014
+5	0	0	Five Stars	12/20/2014
+5	0	0	I love the heat - It's more warm than hot like ...	12/18/2014
+5	0	0	Arrived on time and just like description said	12/18/2014
+5	0	0	Five Stars	12/17/2014
+5	0	0	It is perfect for	12/17/2014
+3	0	0	Three Stars	12/15/2014
+5	0	0	Does the job	12/15/2014
+4	0	0	Four Stars	12/14/2014
+3	0	0	Three Stars	12/12/2014
+4	0	0	Good for price	12/11/2014
+5	0	0	Five Stars	12/11/2014
+3	0	0	Three Stars	12/11/2014
+5	0	0	I am very satisfied with the product	12/10/2014
+4	0	0	Good for basic hair dying needs	12/3/2014
+5	0	0	Five Stars	12/2/2014
+1	0	0	Dryer does not work good at all	11/26/2014
+5	0	1	Revlon hair dryer	11/25/2014
+5	0	0	It's even cute!  It's PINK!  Works great.	11/22/2014
+1	0	0	The on off switch is broken. The only way ...	11/21/2014
+4	0	0	I like the blow dryer	11/20/2014
+4	0	0	Hair Dryer	11/19/2014
+5	0	0	Five Stars	11/18/2014
+5	0	0	Five Stars	11/17/2014
+5	0	0	Five Stars	11/17/2014
+5	0	0	I would recommend it to everyone	11/16/2014
+4	0	0	Four Stars	11/16/2014
+5	0	0	Love it	11/13/2014
+5	0	0	Five Stars	11/13/2014
+5	0	0	great blow dryer	11/12/2014
+1	0	0	One Star	11/11/2014
+5	0	0	Five Stars	11/11/2014
+5	0	0	fast	11/10/2014
+5	0	0	Five Stars	11/7/2014
+4	0	0	Would like it to have a little more power but it is most important that it is more quiet and works well!	11/6/2014
+5	0	0	Five Stars	11/5/2014
+5	0	0	Five Stars	11/5/2014
+5	0	0	Five Stars	11/4/2014
+5	0	0	Simple good hair dryer!	10/31/2014
+3	0	0	Three Stars	10/28/2014
+5	0	0	Five Stars	10/26/2014
+5	0	0	well satisfied!  thank you	10/24/2014
+5	0	0	Five Stars	10/23/2014
+5	0	0	Does its job at a great price. It's also extremely light weight as well ...	10/22/2014
+4	0	0	Decent dryer at a great price.	10/21/2014
+5	0	0	Five Stars	10/21/2014
+5	0	0	Five Stars	10/19/2014
+4	0	0	like it	10/18/2014
+4	0	0	Four Stars	10/17/2014
+4	0	0	Good brand product for a low price	10/17/2014
+1	1	1	WASTE OF MONEY	10/16/2014
+5	0	0	Five Stars	10/12/2014
+5	0	0	good	10/12/2014
+5	0	0	Five Stars	10/12/2014
+5	0	0	Five Stars	10/9/2014
+5	0	0	niceeeee!!!!	10/9/2014
+5	0	0	Five Stars	10/6/2014
+3	0	0	Dryers looks good its ok but you need to spend some more ...	10/5/2014
+5	0	0	Five Stars	9/29/2014
+1	0	1	Really lousy	9/28/2014
+3	0	0	Three Stars	9/24/2014
+4	0	0	Four Stars	9/22/2014
+5	0	0	Fast	9/19/2014
+4	0	0	Four Stars	9/17/2014
+4	0	0	Four Stars	9/14/2014
+5	0	0	Five Stars	9/13/2014
+5	0	0	Five Stars	9/13/2014
+5	0	0	Five Stars	9/13/2014
+5	0	0	"Great blowdryer, works as good as any I've used ..."	9/11/2014
+5	0	0	I love it	9/9/2014
+4	0	0	Four Stars	9/5/2014
+5	0	0	... for nearly 2 months now and it works just fine. Good price for the quality and brand	9/4/2014
+5	0	0	Five Stars	8/31/2014
+5	0	0	Five Stars	8/30/2014
+4	0	0	Great for the price. Had some early technical problems. Could be hazardous?	8/29/2014
+5	0	0	Five Stars	8/28/2014
+5	0	0	it works	8/27/2014
+3	0	0	Good value but not tons of heat	8/27/2014
+4	0	0	Birthday present	8/25/2014
+1	0	0	Avoid this dryer!	8/21/2014
+2	0	0	Two Stars	8/5/2014
+5	0	0	Excellent product!	8/3/2014
+4	0	0	The 3 speeds and 3 heat settings are nice. the low was quiet to use	8/3/2014
+5	0	0	Five Stars	7/25/2014
+5	0	0	Five Stars	7/17/2014
+5	1	1	Five Stars	7/13/2014
+3	1	1	"Works good, but doesn't last as long as it should"	7/12/2014
+5	1	1	Five Stars	7/6/2014
+5	1	1	Love it!	6/14/2014
+5	1	1	great deal	6/12/2014
+5	1	1	my review	6/9/2014
+5	1	1	This is Great!	6/4/2014
+5	1	1	Dryer	5/16/2014
+5	1	1	blow dryer	5/10/2014
+5	2	2	Light weight	5/1/2014
+5	1	1	Very Good hair dryer	4/25/2014
+5	1	1	love	4/24/2014
+4	2	3	Good hairdryer for the price	4/18/2014
+4	1	1	Just Perfect	4/18/2014
+3	0	0	Its okay	4/17/2014
+5	1	1	dryer	4/5/2014
+5	1	1	Great purchase!	4/3/2014
+4	2	2	Works great	3/24/2014
+3	1	1	Not what I expected	3/19/2014
+5	0	0	gift	3/19/2014
+5	0	0	LOVE IT!!!!!	3/8/2014
+5	1	1	great dryer	3/2/2014
+5	0	0	Love IT	2/27/2014
+5	0	0	Performs like a more expensive product	2/21/2014
+5	0	0	Hair dryer	2/20/2014
+5	0	0	Awesome	2/17/2014
+5	0	0	Fun stocking stuffer	2/11/2014
+1	0	0	I returned this one right away	1/21/2014
+5	0	0	Great!	1/13/2014
+5	0	0	Great heat and cool	1/10/2014
+5	0	0	Works Great	12/30/2013
+5	0	0	My wife's Christmas request	12/17/2013
+5	0	1	Work Horse	12/16/2013
+5	0	0	GREAT	12/15/2013
+5	0	0	Great blowdryer!	12/9/2013
+5	0	0	good hairdryer	12/3/2013
+4	0	0	Its a decent hair dryer	11/30/2013
+1	0	0	Terrible value.	11/14/2013
+5	0	0	Love	10/28/2013
+4	0	0	Pretty good for a cheap blow dryer!	10/25/2013
+4	0	0	Hair Dryer	10/19/2013
+5	0	0	Perfect!	10/7/2013
+3	0	0	Worked for almost a year.	9/28/2013
+5	0	0	Very good	9/27/2013
+5	0	1	Customer	9/27/2013
+4	0	0	Yay! I can dry my hair now!	9/24/2013
+5	0	0	highly recommended	9/24/2013
+2	0	0	Great until it breaks!	9/18/2013
+5	0	0	Works good	9/13/2013
+4	0	1	Great	9/4/2013
+5	0	0	Perfect and simple dryer	9/2/2013
+5	0	0	Nice	8/27/2013
+1	0	4	USELESS PURCHASE	8/27/2013
+2	0	0	Poor airflow	8/18/2013
+5	0	0	really good price	8/5/2013
+4	0	0	Turbo Dryer	7/27/2013
+4	0	0	blow dryer	7/22/2013
+1	2	2	producto defectuoso	7/22/2013
+5	0	0	Nice	7/21/2013
+2	1	1	you get what you pay for	7/18/2013
+5	0	0	Just what I wanted	7/16/2013
+3	0	0	"It's Good, bud cheap"	7/11/2013
+2	0	0	Noisy and No Much Air	7/7/2013
+4	0	1	Really heats up!	7/7/2013
+5	0	0	Great! Fast arrival	7/5/2013
+5	0	0	Gr8 buy	6/22/2013
+3	0	0	Nice product	6/14/2013
+5	0	0	"revlon rv408 1875 watt full size turbo dryer, black"	5/15/2013
+5	0	0	Good hair dryer	5/12/2013
+4	0	0	I like it	5/6/2013
+4	0	0	Amazing !!!!!	5/5/2013
+5	0	0	Great Dryer	4/25/2013
+1	13	15	Doesn't work	4/18/2013
+4	0	0	Like it	4/18/2013
+5	0	0	Great Price	4/17/2013
+4	0	0	Works well	4/15/2013
+5	0	0	the gift	4/15/2013
+5	0	0	Great	4/3/2013
+4	0	0	No complaints so far.  Great value.	3/30/2013
+5	0	0	good	3/21/2013
+5	0	0	hair dryer	3/14/2013
+2	0	0	Didn't last long	3/4/2013
+5	0	0	Best Dryer	3/2/2013
+3	0	0	decent value cuz its so inexpensive	2/25/2013
+2	0	0	the high heat doesn't work	2/17/2013
+5	0	0	"small, yet powerful"	2/1/2013
+4	0	0	Hair Dryer	1/27/2013
+5	0	0	Gave it as a gift and they love it	1/27/2013
+5	0	0	hair dryer	1/26/2013
+3	0	0	Does the job	1/23/2013
+5	0	0	Yep	1/23/2013
+2	0	0	This dryer does not seem like it has any power	1/18/2013
+5	0	0	I loved it	1/17/2013
+5	0	0	Geat dryer	1/12/2013
+5	0	0	Perfect!	1/10/2013
+4	0	0	Nice	1/9/2013
+5	0	0	"great dryer,great price"	1/3/2013
+5	0	0	buen secador	12/30/2012
+1	0	0	Cute but cold!	12/27/2012
+5	0	0	Revlon Turbo Dryer	12/19/2012
+3	0	1	DRYS WELL	12/16/2012
+5	0	0	IT IS LITE WEIGHT TO HANDLE  FOR EASY STYLING...	12/16/2012
+5	0	0	Dries hair really fast	12/12/2012
+5	0	0	Good Replacement	12/12/2012
+1	4	4	Just Terrible	12/12/2012
+5	2	2	"Revlon RV408 1875 Watt Full-size Trubo Dryer, Black"	12/12/2012
+5	0	0	good	12/8/2012
+3	18	23	Not enough air flow	11/20/2012
+4	0	0	good value	11/19/2012
+5	0	0	"Revlon RV408 1875 Watt Full-Size Turbo Dryer, Black"	8/5/2012
+5	0	0	Turbo-great for thick hair	7/8/2012
+4	0	0	A worthy purchase	4/8/2012
+1	0	0	NEVER WORKED	2/27/2012
+5	2	2	Super bargain!	2/20/2012
+5	2	2	What she wanted	2/14/2012
+5	0	0	Really Good	1/27/2012
+2	1	2	difficult to assemble	1/13/2012
+2	4	5	Burnt out	11/17/2011
+2	0	0	Extemely noisy	11/7/2011
+5	0	0	Best One	10/31/2011
+1	8	12	Overheating problem	10/10/2011
+5	0	0	is good	8/23/2011
+3	0	0	Good for the price	8/20/2011
+3	0	0	"Powerful and light, but the heating coil seems to be overheating"	7/21/2011
+5	0	0	Just What I Wanted	7/20/2011
+5	0	0	adjustable heat control	6/25/2011
+5	0	0	Late-in-coming hair dryer	6/11/2011
+4	1	2	Great but Bullky	4/15/2011
+3	13	17	almost not quite	4/9/2011
+4	4	5	Not too bad for the price	3/29/2011
+4	0	0	Great for Price	2/27/2011
+5	44	49	HAIRDRYER	1/25/2011
+3	0	0	it's a little weak	1/8/2011
+5	0	0	Happy with purchase.	12/22/2010
+5	0	0	Revlon hair dryer gets an A+	12/11/2010
+4	0	0	Useful and fancy	12/10/2010
+5	0	0	Great Hair Dryer	12/3/2010
+5	26	32	Has been working fine for me	3/10/2010

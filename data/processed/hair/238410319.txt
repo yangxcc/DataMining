@@ -1,0 +1,201 @@
+star_rating helpful_votes total_votes review_headline review_date
+3	0	0	Three Stars	7/28/2015
+1	0	0	It is too loud. I googled quiet hair dryers ...	7/16/2015
+5	0	0	Five Stars	7/13/2015
+5	0	0	Good hairdryer for the price.	6/15/2015
+5	0	0	Five Stars	3/29/2015
+5	0	0	Great hari dryer	3/27/2015
+5	0	0	Five Stars	3/24/2015
+5	0	0	Five Stars	3/22/2015
+2	0	0	Two Stars	3/19/2015
+5	0	0	Highly recommended	3/3/2015
+5	0	0	Five Stars	2/28/2015
+5	0	0	Five Stars	2/15/2015
+4	0	0	Four Stars	2/3/2015
+1	0	0	I initially liked this dryer but it is heavy and all the ...	1/30/2015
+4	0	0	Good one.	1/6/2015
+5	0	0	Five Stars	1/3/2015
+5	0	0	Five Stars	12/27/2014
+5	0	0	Five Stars	12/17/2014
+5	0	0	Five Stars	12/15/2014
+5	1	1	Great product	12/12/2014
+3	0	0	Too loud!! Not enough heat!!	11/17/2014
+5	0	1	Five Stars	11/7/2014
+5	0	0	Great product!	10/22/2014
+5	0	2	Five Stars	10/17/2014
+4	0	1	Four Stars	10/16/2014
+1	1	1	Don't last any longer than a cheap Conair	10/15/2014
+5	0	0	Best Blowdryer	9/23/2014
+3	1	1	Disappointed that 2 years have gone by and it died	9/22/2014
+2	1	1	The dryer is the worst one I ever had it started falling apart on ...	9/20/2014
+2	1	1	"Well made for professional use, but not for home use"	9/13/2014
+3	0	0	Three Stars	9/11/2014
+5	0	0	Five Stars	9/8/2014
+2	1	1	Quiet hairdryer ? No way !	9/3/2014
+5	0	0	shop no more	8/31/2014
+1	2	2	1 year was not long enough	8/26/2014
+5	0	0	Five Stars	8/21/2014
+5	0	0	Love!	8/18/2014
+4	0	0	Worth the money unless you're looking for quiet	8/2/2014
+5	0	0	She said it is the best blow dryer she has used and people often ask ...	7/30/2014
+5	0	0	Five Stars	7/26/2014
+5	0	0	Five Stars	7/21/2014
+5	0	0	"It does a great job, is easy to use and dependable"	7/21/2014
+3	0	0	It performes as expected. My problem with it is ...	7/16/2014
+4	0	0	Four Stars	7/14/2014
+5	0	0	Good price	7/13/2014
+5	0	0	Works very well - nice long cord	6/30/2014
+4	0	1	Hair dryer	6/25/2014
+4	2	2	Good but slightly heavy	6/11/2014
+4	0	0	Great blow dryer	5/30/2014
+5	0	0	Indestructible	5/9/2014
+5	0	0	Hair product...	5/7/2014
+4	0	0	Great power!	4/29/2014
+5	0	0	Best dryer ever	4/8/2014
+1	1	1	Crap!	4/2/2014
+3	0	0	I like it but its heavy	3/31/2014
+5	0	0	highly recommend!	3/10/2014
+5	0	0	love it	3/3/2014
+1	0	0	Not recommended.	3/3/2014
+5	0	0	Love it	3/1/2014
+5	0	0	"very powerful, dries hair much quicker"	2/26/2014
+5	1	1	Great blow dryer	2/26/2014
+4	0	0	So far....wonderful!	2/24/2014
+5	1	2	Finally	2/19/2014
+5	0	0	best dryer	2/1/2014
+5	0	0	Great Product	1/17/2014
+4	0	0	Andis Professional 1875 Watt Ceramic Ionic Hair Dryer - Black Chrome...	1/14/2014
+5	0	0	Love it!!	1/11/2014
+5	0	0	love it	12/31/2013
+5	0	0	Bought this for my wife	12/29/2013
+3	0	0	Andis hair dryer	12/20/2013
+5	0	0	Runs Great !!	12/19/2013
+5	8	8	BEST hairdryer I have ever owned!	12/17/2013
+2	1	1	NOISY!	12/9/2013
+5	1	1	got to have	12/8/2013
+5	0	0	thanks	12/3/2013
+4	0	0	Good hair dryer	11/30/2013
+4	0	0	Dryer	11/30/2013
+5	0	0	"Thick hair, no worries."	11/27/2013
+5	0	0	Great Product	11/9/2013
+5	0	0	Love it	10/17/2013
+4	0	0	Loved it.	10/17/2013
+1	0	0	Great Professional Dryer - NOT!	9/7/2013
+5	0	0	whoohoo!!	8/13/2013
+4	0	0	Good buy	8/11/2013
+5	0	0	Absolutely luv it..	7/20/2013
+5	1	1	Jj	6/11/2013
+1	1	1	Not what we were inspecting...	5/19/2013
+5	0	0	I LOVE THE BLOWDRIER !!!!!!	5/3/2013
+5	0	0	great product	4/17/2013
+3	0	0	red dryer love	3/20/2013
+5	1	1	felicitaciones	3/17/2013
+5	0	0	Good quality at a good price.	3/6/2013
+5	0	1	Love the dryer	3/3/2013
+5	1	1	great product	2/15/2013
+5	1	1	Great hair drier. Too bad it comes in a search for 220V hair drier or 220 volt hair drier	2/6/2013
+5	0	0	THE BEST~!	1/23/2013
+5	0	0	excelent	1/22/2013
+5	0	0	It was a great dryer while it lasted.  It died after 2 years.  Electric plug shorted.	1/20/2013
+4	0	0	Great dryer!	1/17/2013
+3	1	1	Has its Pros & Cons...	1/15/2013
+5	0	0	Perfect gift!	1/8/2013
+4	0	0	Great gift	1/2/2013
+5	0	0	love it	12/27/2012
+5	0	0	excelente	12/13/2012
+3	0	0	Nice product	12/11/2012
+5	0	0	WOW	12/11/2012
+5	1	1	Great Hair Dryer	12/7/2012
+1	1	3	very bad	12/5/2012
+5	0	0	Great blowdryer	12/4/2012
+5	0	0	"Attractive, powerful, and it drys my hair faster."	11/16/2012
+5	0	0	"brilliant product, excellent delivery service"	10/27/2012
+4	0	0	Great while it lasted	10/2/2012
+5	0	0	Very Nice.	9/7/2012
+4	1	1	"quick drying, easy on the ears"	9/4/2012
+3	0	0	Just okay	9/1/2012
+5	0	0	excelente calidad	8/23/2012
+5	0	0	Dryer has many uses	7/28/2012
+3	0	0	my bad...	6/4/2012
+5	1	1	Andres 82005	5/10/2012
+1	13	14	BUYER BEWARE! DANGEROUS! BUY WITH CAUTION!	4/7/2012
+5	0	0	Great hairdryer...using for almost 3 years now!	2/26/2012
+1	15	16	Exploded!	2/4/2012
+1	2	2	heating element stopped working	1/9/2012
+5	1	1	It's hot!	1/3/2012
+1	0	1	Andis 82005 1875 watts	1/1/2012
+4	1	1	decent product	12/24/2011
+5	1	1	"My first one worked wonderfully and lasted 2 1/2 years, so I'm getting another!"	12/16/2011
+5	0	0	Definitely worth it!!	12/5/2011
+5	3	3	Amazing how quickly it works!	11/25/2011
+5	0	0	Excellent	11/21/2011
+4	0	0	i really enjoyed it!!!!	10/21/2011
+1	0	0	Broke after 1 month!	10/21/2011
+5	0	0	Hair Dryer	9/23/2011
+1	2	3	hand grip gets too hot	9/16/2011
+1	2	3	HATE HATE HATE!	9/7/2011
+5	0	0	LOVE IT	9/3/2011
+2	1	1	I would have said it was GREAT....except...	9/1/2011
+5	0	0	Great Hair Dryer	8/22/2011
+4	0	0	buena inversion	8/20/2011
+4	0	0	Great price and performance	8/12/2011
+4	0	0	the best and fastest hair dryer i've owned	7/29/2011
+1	0	1	Didnt have luck with this one	7/24/2011
+5	0	0	Geat Blower	7/14/2011
+4	0	1	Fast Dryer	7/11/2011
+5	0	0	My wife is happy	6/16/2011
+3	0	0	Dryes quickly but super loud!	4/14/2011
+4	1	1	Ionic Heat	4/12/2011
+1	1	1	Worst purchase in a long time.	2/6/2011
+4	13	14	This hair dryer is AMAZING!	1/13/2011
+4	1	1	Works great	12/29/2010
+5	2	2	hair dryer	12/27/2010
+5	0	0	Best hair Dryer I have ever owned	12/21/2010
+5	0	0	Five Stars	12/21/2010
+2	4	5	HEAVY! HOT! Useless pick attachment. Awful button placement.	12/17/2010
+4	0	2	Secador de cabello	12/4/2010
+4	0	0	Andis hair dryer	11/27/2010
+5	0	0	Excellent Hair Dryer	11/10/2010
+2	4	4	"Good blow dryer, but ....."	10/19/2010
+4	0	0	Works well - switches in inconvenient spot	10/15/2010
+5	0	0	The quality is awesome	10/5/2010
+5	0	0	The best dryer ever!	10/5/2010
+1	2	2	possible fire!	9/21/2010
+5	1	1	Andis hair dryer	8/21/2010
+2	3	3	"Adequate dryer, but think twice if you want to use the attachments."	8/19/2010
+4	4	4	can't beat it for the price	7/20/2010
+2	1	1	Attachment cannot attached!!	7/7/2010
+5	1	2	perfect for me	6/17/2010
+5	0	0	Excellent Product and a Great Bargain	5/13/2010
+5	1	1	Best Hair Dryer I've Ever Owned	4/18/2010
+4	0	0	Powerful	4/10/2010
+5	0	0	Great product	3/6/2010
+4	1	1	pretty good	2/22/2010
+5	2	2	Best Hairdryer Ever Owned!	2/14/2010
+5	0	0	Hairdryer	2/6/2010
+5	0	0	andis 82005 hair dryer	2/5/2010
+5	0	0	The Very Best	1/28/2010
+4	2	2	Like it but....	1/17/2010
+4	5	5	Happy with my purchase	11/9/2009
+5	0	0	Love it!	10/15/2009
+5	0	0	Andis blow dryer	10/1/2009
+5	0	0	Love it	9/14/2009
+5	0	0	A REAL GOOD ONE	3/11/2009
+5	0	0	Worth the money	11/7/2008
+5	0	1	EXCELLENT HAIR DRYER	8/28/2008
+4	0	0	Very Happy With The Blow Dryer	6/19/2008
+2	3	3	Pros and cons	6/19/2008
+4	0	0	Good Hair Dryer	5/11/2008
+5	0	0	Great dryer	2/15/2008
+2	2	2	Broke after a year	12/2/2007
+5	1	1	Great Dryer!!	12/1/2007
+4	1	1	"Good Value, excelent results!!!!"	12/1/2007
+4	2	2	Andis 82075 Hair Dryer	10/13/2007
+1	1	7	What junk	10/2/2007
+5	11	14	I LOVE IT!!!!	9/15/2007
+3	33	38	Not for Amateurs	1/7/2007
+4	2	2	Hair dryer has a nice design	11/3/2006
+2	3	5	"Works great for 4 months, and then dies!"	10/9/2006
+1	12	16	defective hair dryer	6/4/2006
+3	4	5	Not as quiet as I wanted	3/19/2006
+4	16	18	Great hairdryer	2/24/2006

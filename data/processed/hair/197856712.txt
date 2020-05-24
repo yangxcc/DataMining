@@ -1,0 +1,299 @@
+star_rating	helpful_votes	total_votes	review_headline	review_date
+5	0	0	Perfect	8/28/2015
+5	0	0	Five Stars	8/17/2015
+5	0	0	Andis 1600W Quiet Hair Dryer	7/31/2015
+3	1	1	Easy to mount to wall	7/28/2015
+4	1	1	Liked it but it was broken	7/24/2015
+5	1	1	Great hair dryer ... also the night light is super.	7/22/2015
+5	0	0	Five Stars	7/16/2015
+1	0	1	Never even worked	7/13/2015
+5	0	0	Five Stars	7/13/2015
+1	3	4	Should be recalled	7/11/2015
+5	0	0	Five Stars	7/10/2015
+5	0	0	Love it! So convenient	7/8/2015
+5	0	0	Five Stars	7/3/2015
+1	0	0	overheats	7/2/2015
+4	0	0	Four Stars	6/21/2015
+5	0	0	Five Stars	6/19/2015
+5	0	0	Five Stars	6/16/2015
+3	0	0	Three Stars	6/9/2015
+5	0	0	Great compact hair accessory	6/8/2015
+5	0	0	Awesome	6/6/2015
+5	0	0	good	6/4/2015
+5	0	0	Five Stars	6/4/2015
+3	0	0	"This sounds weird, but the night light is MUCH ..."	6/4/2015
+4	0	0	but still a great compact dryer that looks great in my bathroom	6/4/2015
+1	0	0	One Star	5/30/2015
+1	0	0	Worst Hair Dryer Ever	5/30/2015
+2	0	0	Two Stars	5/28/2015
+3	0	0	Mounting defect	5/27/2015
+4	0	0	the wall mount feature is the best for keeping a clutter-free countertop	5/26/2015
+5	0	0	Bargain!!	5/15/2015
+5	2	2	Five Stars	5/11/2015
+5	0	0	Five Stars	5/6/2015
+4	0	0	Nice.	5/1/2015
+1	1	2	Here are the reasons why you shouldn't buy this hair dryer.	4/29/2015
+3	0	0	Three Stars	4/27/2015
+1	0	0	One Star	4/26/2015
+5	0	0	Out of the way.	4/18/2015
+3	0	0	The hair dryer is quiet and powerful enough to dry ...	4/13/2015
+5	0	0	Excellent Hair Dryer	3/30/2015
+5	0	0	I'm in love with this hair dryer It's small but really dry's ...	3/30/2015
+5	0	0	Five Stars	3/30/2015
+5	0	0	Five Stars	3/29/2015
+4	0	0	Four Stars	3/29/2015
+5	0	0	Good Dryer	3/26/2015
+5	0	0	"Great product, looks and preformance"	3/24/2015
+4	0	0	So far - So good.	3/23/2015
+5	0	0	Perfect Size	3/20/2015
+5	0	0	"Buy it, you'll love it!"	3/19/2015
+5	0	0	Five Stars	3/18/2015
+1	0	0	A Piece of Junk	3/11/2015
+5	0	0	review of andis wall mounted hang up hair dryer	3/10/2015
+5	3	3	Nice Unit	3/5/2015
+4	0	0	Four Stars	3/5/2015
+3	0	0	Andis 30975 Wall Mounted Hair Dryer	2/24/2015
+5	0	0	works great.	2/22/2015
+1	0	0	Unreliable	2/21/2015
+2	0	0	Disappointment	2/19/2015
+5	0	0	best thing I have bought so far	2/19/2015
+5	0	0	I've only had to replace one of these units and everybody seems to love them.	2/17/2015
+5	0	0	Five Stars	2/16/2015
+4	0	0	Good but night light is too bright	2/15/2015
+4	0	0	So far so good...	2/14/2015
+5	0	0	Five Stars	2/13/2015
+5	0	0	Love it but only hope it lasts a lot longer ...	2/12/2015
+5	0	0	great	2/11/2015
+5	0	0	They work great for 3-4 years before they get noisy	2/6/2015
+4	0	0	Four Stars	2/4/2015
+5	0	0	Leaves an uncluttered space	2/4/2015
+5	0	0	Nice wall mount	2/3/2015
+5	0	0	Nice and tight	2/3/2015
+3	1	1	My blowdryer is DEAD - 4 months later after install.	2/1/2015
+2	0	0	"Nice product, poor ROI"	1/26/2015
+4	0	0	It's works very good. We had the same one that lasted for ...	1/25/2015
+5	0	0	Love it	1/21/2015
+3	0	0	Decent product!	1/21/2015
+1	0	0	What happened to quality control	1/14/2015
+3	1	1	After having it only 2 weeks the low blow cycle ...	1/12/2015
+5	0	0	Five Stars	1/9/2015
+5	0	0	Very good dryer	12/31/2014
+5	0	0	Lightweight and compact	12/30/2014
+5	0	0	Five Stars	12/22/2014
+5	0	0	Easy install and arrived on time	12/19/2014
+4	0	0	It works fine till now	12/11/2014
+3	0	0	Mounting was easy as reviews have stated and it is very strong ...	12/11/2014
+5	0	0	Five Stars	12/3/2014
+5	0	0	Five Stars	11/27/2014
+1	0	0	Not worth it at any price	11/19/2014
+4	0	0	Great small blower for home	11/18/2014
+5	0	0	RV accessories	11/17/2014
+4	0	0	Andis 30975/HD-10L 1600W Quiet Hangup Hair Dryer with Night Light	11/12/2014
+1	0	0	Not happy that I spent $40	11/8/2014
+5	0	0	Perfect	11/7/2014
+5	0	0	glad I purchased 2 one for each bathroom they're great ...	10/26/2014
+5	0	0	Certainly meets my needs.	10/26/2014
+5	0	0	Great value	10/22/2014
+2	0	0	Too little power	10/20/2014
+5	0	0	Five Stars	10/18/2014
+5	0	0	I would definitely recommend this product	10/17/2014
+5	0	0	Great Dryer at a very Reasonable Price	10/8/2014
+5	0	0	Awesome!	10/2/2014
+1	0	0	Bad design and workmanship!	9/30/2014
+5	0	0	Super happy I bought this one	9/18/2014
+5	0	0	Love having it on the wall!	9/12/2014
+5	0	0	I love it	9/9/2014
+5	0	0	Love it!	9/9/2014
+5	0	0	Five Stars	9/8/2014
+5	0	0	Five Stars	9/4/2014
+5	0	0	I am happy with the Andis 30975/HD-10L	9/2/2014
+5	0	0	The BEST wall hair dryever..	8/24/2014
+5	0	0	Convienience as well as a great product.	8/18/2014
+3	0	0	I am disappointed at the overall quality as I feel it should ...	8/9/2014
+4	0	0	but wall mount is so nice! If I need to dry my hair FAST	8/6/2014
+1	0	0	and it smelled like wires were burning	8/5/2014
+5	0	0	Easy Replacement	8/5/2014
+5	0	0	works great	8/1/2014
+5	0	0	love it	7/30/2014
+2	0	0	Disappointed	7/20/2014
+5	0	0	Five Stars	7/19/2014
+5	0	0	Really love this. I used in a hotel and seen ...	7/18/2014
+4	0	0	... broke down before I thought it should but I love the compactness on the wall and night light and ...	7/12/2014
+5	0	0	Excellent quality and ergonomics	7/11/2014
+4	0	0	not hot enough but maybe better for your hair.	7/9/2014
+5	0	0	Would buy again	6/30/2014
+5	0	0	"Yes, buy this one."	6/28/2014
+5	0	0	Its Great	6/15/2014
+5	0	0	This our second unit for our second bathroom	6/10/2014
+1	0	0	1600W setting did not work	6/9/2014
+5	0	0	Just what I'd expect	5/28/2014
+3	1	1	"Nice dryer, If only it lasted more than one year"	5/24/2014
+5	0	0	Love it!	5/15/2014
+4	0	0	erogomically convenient	5/11/2014
+5	0	1	Five Stars	4/21/2014
+5	0	0	Quiet Hangup Hair Dryer	4/15/2014
+4	3	4	Still a good dryer	4/11/2014
+5	0	0	Good Product.	4/7/2014
+5	0	0	Does exactly what I wanted it to do!!	3/29/2014
+3	0	1	Mediocre	3/26/2014
+5	0	0	Impossible to find in retail stores.	3/23/2014
+4	0	0	Not as Powerful	3/22/2014
+5	0	0	fairly quiet	3/19/2014
+5	1	1	Andis 30125 Wall mounted hair dryer	3/13/2014
+5	0	0	Love My New Hair Dryer	3/13/2014
+5	0	0	Powerful and requires little space!	3/2/2014
+4	1	1	Easy to use	3/2/2014
+5	0	0	Nice dryer	3/1/2014
+4	1	2	Hangup Hair Dryer	2/26/2014
+4	1	1	great hairdryer	2/19/2014
+4	0	0	Very pleased with dryer.	2/18/2014
+5	0	0	Easy to install	2/13/2014
+5	0	0	Will never live without one of these again!	2/10/2014
+4	0	0	Convenient!	2/2/2014
+4	0	0	Very good hair dryer.	1/30/2014
+5	0	0	Great product!!	1/17/2014
+5	0	0	I have had numerous wall dryers and this is by far the best.	12/25/2013
+4	0	0	Works fine and the nightlight is nice.	12/18/2013
+5	0	0	GREAT GIFT IDEA BUT I BOUGHT IT FOR MYSELF	12/16/2013
+3	1	1	"Decent dryer, Installation glitches"	12/13/2013
+5	0	0	Nice extra	12/8/2013
+1	2	2	P.O.S.	12/8/2013
+5	0	0	Perfect	12/7/2013
+4	0	1	"Good Hair Dryer, No Need for Light"	12/7/2013
+4	1	1	Love it	12/6/2013
+4	0	0	compact dryer	11/27/2013
+5	0	0	Love this Hair dryer!	11/11/2013
+5	0	0	Best Hair Dryer Ever	11/3/2013
+3	0	0	Review	11/2/2013
+5	0	0	great producy	10/20/2013
+5	1	1	Just what I wanted	10/12/2013
+2	0	0	"Could be great, but..."	10/7/2013
+4	1	1	I was happy with it.	10/4/2013
+3	2	3	"Easy to install, sturdy after install and has been working OK for almost a month now"	9/23/2013
+5	0	0	love the nightlight feature	9/18/2013
+5	0	0	Thank you.	9/16/2013
+3	0	0	Super support	9/3/2013
+1	0	0	Good looking but CHEAP!	8/30/2013
+5	0	0	Excellent	8/25/2013
+1	0	0	Don't buy this	8/16/2013
+1	0	0	was not as advertised	8/12/2013
+2	0	0	Not what I expected from Andis	7/29/2013
+3	0	0	It does the job	7/26/2013
+5	0	0	Great Drier	7/22/2013
+5	0	0	great wall mount hair dryer	7/16/2013
+4	0	1	"Dryer good, bed good for one"	7/14/2013
+4	0	0	Hair Dryer	7/12/2013
+5	0	0	It was just as described	7/12/2013
+3	0	0	Mounting plate machine screws were too short to engage the plate. Luckily the hardware has these 2mm x 20 mm screws I needed.	7/4/2013
+1	0	0	Dryer Lights on Fire!	6/27/2013
+4	0	0	"nice and powerful, love the nite lite... but now its starting to have a noise in the motor."	6/24/2013
+4	0	0	Neat and compact. Power?	6/18/2013
+5	0	0	"Love it, especially the night light"	6/15/2013
+1	0	0	Don't buy this	6/10/2013
+4	0	0	Powerful	6/3/2013
+4	1	1	"Great Hairdryer for Short Cuts, But DON'T Buy It If You Have Long Hair"	5/25/2013
+5	0	0	just answering a very dumb question	5/23/2013
+4	0	0	My wife loves it.	5/17/2013
+5	0	0	Works Great	5/5/2013
+3	0	0	Fairly easy to install - lasted three years	4/23/2013
+5	0	0	great idea	4/9/2013
+5	0	0	Blows me away!	4/9/2013
+4	2	2	"Great dryer, hideous night light"	4/3/2013
+5	0	0	Great Product	3/30/2013
+4	0	0	Good for what its deseigned to do	3/20/2013
+4	0	0	nice	3/19/2013
+3	0	0	love it sorta	3/18/2013
+5	0	0	Bought as a replacement for an older model 1600.	3/17/2013
+4	0	0	Hairdryer needs to be made to last longer	3/17/2013
+4	0	0	easy usage and accessibility	3/16/2013
+4	1	1	Works well	3/13/2013
+3	0	0	Andis is a brand that lasts	3/11/2013
+5	0	0	Terrific Unit	3/2/2013
+4	1	1	I am glad I screwed it to the wall...	2/26/2013
+3	4	4	Works Great....But	2/21/2013
+5	1	1	Works great!	2/10/2013
+3	1	1	This unit is no quieter than any other hair dryer I've heard except when it's off	2/6/2013
+5	1	1	hair dryer	1/25/2013
+1	3	4	Disappointed	1/22/2013
+4	0	0	easy to install	1/14/2013
+5	0	0	wall mounted hair dryer	1/6/2013
+4	1	1	Bright nightlight.	12/30/2012
+5	0	0	Great Hair Dryer unit	12/27/2012
+4	0	0	Christmas gift	12/22/2012
+5	0	0	new dryer	12/11/2012
+5	0	0	Great hair dryer	12/6/2012
+5	0	0	Great Hair Dryer	12/1/2012
+4	5	5	Andis 30125 Wall Mounted Hang Up 1600 Watt Hair Dryer with Night Light	11/15/2012
+5	0	0	so convenient	9/28/2012
+4	0	0	"Great product, terrible screws"	9/25/2012
+4	0	0	Does all I had hoped.	9/15/2012
+2	1	1	Weak	8/19/2012
+5	0	0	Very nice	7/5/2012
+5	1	1	Andis Wall Mounted Hair Dryer	6/15/2012
+4	0	0	excelent product	6/12/2012
+1	0	0	OVER HEATS!!!!!!!!!	6/4/2012
+5	0	0	Very pleased w/ product and delivery was very fast!	5/22/2012
+4	0	0	Decent Hair Dryer	5/15/2012
+5	0	0	Great Hair Dryer	5/8/2012
+4	0	0	TOO MUCH LIGHT	5/6/2012
+2	1	1	ridiculous mounting system	4/7/2012
+5	0	0	Perfect dryer!	3/26/2012
+5	0	0	Excellent	2/28/2012
+2	2	2	not worth the money	2/8/2012
+5	0	0	Exactly what I was looking for	2/7/2012
+3	1	1	No cool shot	2/1/2012
+5	0	0	Low Noise Dryer	1/26/2012
+5	1	1	handy	1/5/2012
+5	0	0	Excellent wall-mount hairdryer	1/1/2012
+3	0	0	Poor quality	12/9/2011
+5	7	7	Wall Mounted Hair Dryer	11/22/2011
+5	0	0	Excellent product	11/11/2011
+4	0	0	Andis 30975/HD-10L 1600W Quiet Hangup Hair Dryer with Night Light	11/3/2011
+5	0	1	Compact Hair Dryer	10/22/2011
+4	9	9	Don't get it for the night light	10/22/2011
+5	0	0	Quiet and efficient	10/16/2011
+5	0	0	Excellent Wall Mount Hairdryer with night light	10/4/2011
+5	0	0	Andis Hair Dryer	8/21/2011
+5	5	6	"Great price, robust power in a little package"	7/14/2011
+4	3	3	"Works great and looks great, can't complain"	7/7/2011
+5	0	0	Great wall hairdryer	5/7/2011
+1	0	0	Poor wall mount system	5/3/2011
+5	0	0	Exactly what I was looking for	4/15/2011
+5	0	0	Easy to install	4/11/2011
+3	1	1	Not the usual hotel hair dryer	4/5/2011
+5	5	5	Value shopper	3/2/2011
+4	0	0	"Works great, night light is bright"	1/11/2011
+5	3	3	Winner	11/15/2010
+3	0	0	Its compact!!!	9/14/2010
+4	0	0	great dryer	8/16/2010
+4	92	98	Nice features for a hangup hair dryer	6/28/2010
+5	1	1	A great choice	5/30/2010
+4	1	1	Very handy and neat	5/20/2010
+1	1	1	30 day max use	4/14/2010
+5	1	1	In regard to other reviews	3/9/2010
+5	0	0	mounted hairdryer	2/7/2010
+2	0	0	Andis Blow Dryer	2/1/2010
+4	0	0	"Good Price, Good Features"	1/30/2010
+4	0	0	Installation	1/27/2010
+4	0	0	good for the proce	12/13/2009
+3	0	0	Not as powerful as I thought it would be	11/9/2009
+5	0	0	Hair Dryer	10/20/2009
+4	0	0	Nice	7/20/2009
+5	0	0	andis hang up hair dryer	7/5/2009
+5	0	0	Nice compact Hair Dryer	5/15/2009
+5	0	0	Satisfied with this product	4/26/2009
+5	0	0	Great little dryer	3/2/2009
+5	0	0	Convenient Hair Dryer	12/17/2008
+3	2	3	Andis Hair Dryer	8/28/2008
+1	3	4	Two Quit Working in Less than Two Months	5/3/2008
+2	0	0	"The convenience is nice, but it failed after a year."	4/14/2008
+5	0	0	All the comforts of on the road!	3/19/2008
+4	2	2	Happy but wish it was a little stronger...	2/10/2008
+5	2	2	Andis 1600W Quiet Hangup Hair Dryer with Night Light	11/6/2007
+4	1	1	Andis wall hangup hair dryer (30975 with nightlight	6/11/2007
+4	1	1	a good product	5/6/2007
+5	9	9	Hangup Hair Dryer w/ Night Light	4/10/2007
+2	2	4	switch broke	4/1/2007
+5	16	18	Hotel Quality	1/15/2007
+5	0	1	Looks Great!	1/3/2007
+5	24	24	Very good dryer	6/17/2006

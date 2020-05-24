@@ -1,0 +1,359 @@
+star_rating	helpful_votes	total_votes	review_headline	review_date
+1	0	0	One Star	8/25/2015
+2	1	1	Doesn't work for long!	8/15/2015
+3	0	0	Three Stars	8/14/2015
+5	1	1	Best hair dryer I've ever used~	7/31/2015
+5	0	0	It dries things	7/26/2015
+3	0	0	"Does the job, blows fine"	7/25/2015
+1	0	0	garbage	7/23/2015
+5	0	0	Love this product!!! Will buy for life!	7/21/2015
+5	0	0	Conair makes reliable stuff!	7/21/2015
+5	0	0	hair dryer	7/19/2015
+2	0	0	Two Stars	7/18/2015
+5	0	0	Great buy	7/17/2015
+3	0	0	Three Stars	7/14/2015
+4	1	1	Because of the wider nozzle its seems like less air	7/13/2015
+5	1	1	Five Stars	7/12/2015
+3	0	0	Three Stars	7/9/2015
+4	0	0	Four Stars	7/5/2015
+5	0	0	Great deal.	7/2/2015
+2	0	0	Two Stars	6/22/2015
+5	1	1	Five Stars	6/18/2015
+5	1	1	"Solid construction, and powerful"	6/15/2015
+5	1	1	4 years later...	6/13/2015
+4	0	0	Four Stars	6/9/2015
+3	1	1	"OK, not great"	6/2/2015
+5	0	0	Five Stars	5/23/2015
+5	0	0	Good value	5/22/2015
+4	0	0	Four Stars	5/22/2015
+4	0	0	but the product itself works great.	5/22/2015
+3	0	0	Three Stars	4/11/2015
+5	0	0	Cheap but Good	3/26/2015
+4	0	0	Works fine	3/26/2015
+3	3	3	It's an ok drier but there are so many better options out there with a stronger motor	3/23/2015
+5	0	0	Five Stars	3/12/2015
+5	0	0	Wind is strong and does not feel too hot	3/6/2015
+3	1	1	Three Stars	2/26/2015
+5	0	0	Five Stars	2/26/2015
+2	0	0	Two Stars	2/23/2015
+4	1	1	bulky	2/20/2015
+5	0	0	Five Stars	2/18/2015
+5	0	0	It is a very good item. Very easy to switch on	2/16/2015
+5	0	0	Five Stars	2/16/2015
+4	0	0	Four Stars	2/13/2015
+5	0	0	has held up for over year now. i only use it about once a week though	2/12/2015
+5	0	0	Five Stars	2/10/2015
+5	0	0	Five Stars	2/5/2015
+5	0	0	Five Stars	1/14/2015
+4	0	0	I LIKE	1/7/2015
+5	0	0	"Works well enough, and hot enough to use for installing phone/tablet skins"	1/5/2015
+5	0	1	Five Stars	1/1/2015
+5	0	0	This hair dryer is great.. Leaves my hair so shiny after it ...	12/31/2014
+5	0	0	MUST HAVE	12/31/2014
+5	0	0	Five Stars	12/31/2014
+4	0	0	Good value	12/30/2014
+1	0	0	I am so disappointed in the failing quality of Conair products	12/30/2014
+5	0	0	Five Stars	12/27/2014
+2	0	0	Worked less than 10 months.	12/27/2014
+4	0	0	Great hair dryer- short cord	12/19/2014
+3	0	0	I liked it!	12/16/2014
+3	0	0	Three Stars	12/14/2014
+3	0	0	Good value but crummy dryer	12/4/2014
+4	0	0	Four Stars	11/29/2014
+5	0	0	Five Stars	11/24/2014
+5	0	1	Five Stars	11/6/2014
+4	0	0	Four Stars	11/5/2014
+5	0	0	Great Hair Dryer.....Great Price	11/4/2014
+5	0	0	Five Stars	11/2/2014
+5	0	0	Five Stars	10/29/2014
+5	0	0	Five Stars	10/27/2014
+4	0	1	Four Stars	10/24/2014
+5	0	0	Five Stars	10/23/2014
+5	0	0	Very Good Value For The Price...	10/23/2014
+3	0	1	Three Stars	10/20/2014
+4	0	0	it does a good job. The only drawback is that I feel ...	10/20/2014
+4	0	0	Four Stars	10/19/2014
+5	0	0	Five Stars	10/10/2014
+5	0	0	Great hair dryer!	10/6/2014
+5	0	0	Five Stars	10/5/2014
+4	0	0	Pretty good value	9/19/2014
+1	0	0	no value	9/17/2014
+5	0	0	Five Stars	9/16/2014
+5	0	0	Five Stars	9/10/2014
+5	0	0	Good deal	9/7/2014
+1	0	1	DON'T buy unless you want to burn up your hair or home	9/5/2014
+5	0	0	Five Stars	9/3/2014
+2	0	0	Two Stars	9/2/2014
+5	0	0	"Pretty cheap, but effective"	8/29/2014
+5	0	0	Great	8/20/2014
+5	0	0	Great Product!! Thank you.	8/18/2014
+1	1	1	None available.	8/15/2014
+5	0	0	Five Stars	8/13/2014
+4	0	0	"It is a cheap product, and will work, ..."	8/10/2014
+4	0	0	Good choice for the right price.	8/9/2014
+5	0	0	love it	8/8/2014
+5	0	0	This really blows!	8/8/2014
+5	0	0	Great price - works really well.  Why spend more for a hair dryer?	8/8/2014
+3	0	0	"Not High Powered, Fine for the Price"	8/7/2014
+5	0	0	Great!	8/7/2014
+4	0	0	Very Good Hair Dryer... !!!	8/7/2014
+4	0	0	Four Stars	8/6/2014
+5	0	0	Five Stars	8/2/2014
+5	0	0	Five Stars	8/1/2014
+4	0	0	Four Stars	7/31/2014
+5	0	0	"Great, affordable, easy to use"	7/31/2014
+4	0	0	A FABULOUS Hand Dryer!	7/30/2014
+1	0	0	Broken and didn't work right out of box.	7/28/2014
+5	0	1	Five Stars	7/28/2014
+1	9	9	"Don't waste your $$$$$, Conair & Amazon should be ashamed to sell this product"	7/25/2014
+5	0	0	great	7/24/2014
+3	0	0	Mediocre	7/22/2014
+4	0	0	"Great price, good dryer"	7/20/2014
+4	0	0	Decent hair dryer.	7/19/2014
+4	0	0	Good light weight blow dryer!	7/19/2014
+3	0	0	"Liked it at first but it didn't have a long life, sadly!!"	7/14/2014
+5	0	0	Five Stars	7/14/2014
+5	0	0	Five Stars	7/13/2014
+2	0	0	Not enough.....	7/9/2014
+5	0	0	A useful tool	7/8/2014
+5	0	0	good value	7/8/2014
+1	0	0	NOOOOOOOOOOOOOOOOOOO!!!!	7/8/2014
+5	0	0	GREAT dryer	7/7/2014
+4	0	0	I decided I'd better be proactive about having a replacement for my current ...	7/6/2014
+4	0	0	A very good hair dryer for the money	7/6/2014
+2	0	0	I received this hair dryer on 5/12/2014 and it is ...	7/5/2014
+5	0	0	Good product	7/5/2014
+5	1	1	Five Stars	7/3/2014
+5	0	0	while the Hot setting is nice and toasty	7/2/2014
+5	0	0	Great buy!	7/1/2014
+5	0	0	This is a great hair dryer for the priice	6/29/2014
+5	0	0	Great Buy All-Around	6/24/2014
+5	0	0	Conair 1875 Watt Ionic Conditioning Hair Dryer	6/20/2014
+4	1	1	Glad I stuck with Conair	6/18/2014
+5	1	1	Great	6/17/2014
+5	1	1	I'm glad I made the purchase!	6/14/2014
+2	0	0	Ok it's a hairdryer and ..	6/10/2014
+5	0	0	Great dryer for the price	6/10/2014
+5	0	0	It is  amazing !	6/8/2014
+5	0	0	I've never bought a bad hair dryer.	6/8/2014
+5	0	0	Love this product	6/7/2014
+5	0	0	Wife loved it	6/2/2014
+5	1	1	Fantastic!	5/31/2014
+4	0	0	Inexpensive & Powerful	5/29/2014
+5	1	1	Best ten bucks I've ever spent!	5/25/2014
+5	0	0	Great value!	5/24/2014
+2	4	5	Bulky and Strange Heating	5/23/2014
+4	0	0	Good hair dryer.	5/23/2014
+4	0	0	"Works well, Good deal"	5/22/2014
+4	0	0	Good Hair Dryer	5/22/2014
+5	0	0	dries hair quickly	5/20/2014
+4	0	0	"Great hairdryer, but...."	5/20/2014
+4	0	0	Happy with this one	5/20/2014
+5	0	0	Works great for the price	5/19/2014
+2	0	0	Spend a little more	5/16/2014
+5	0	0	Blow dryer	5/15/2014
+1	0	0	to bolw or not to blow	5/13/2014
+5	0	0	Conair 1875 watt ionic Conditioning Hair Dryer	5/11/2014
+4	0	0	it works for me!	5/9/2014
+5	0	0	Conair 1875 Watt Ionic Conditioning Hair Dryer	5/7/2014
+5	0	0	Perfect choice!	5/6/2014
+5	0	0	Great Product at Steal Price!	4/22/2014
+5	0	0	The best hairdryer I've ever owned!	4/22/2014
+5	0	0	Great hair  dryer	4/18/2014
+5	0	0	Great price	4/13/2014
+5	0	0	Why would you pay more?	4/11/2014
+5	0	0	works well	4/6/2014
+5	0	0	Powerful dryer and easy to use	4/2/2014
+4	0	0	"Works well, good value, but not as quiet as others have stated"	4/1/2014
+4	0	0	excellent	4/1/2014
+5	1	1	Good price	3/31/2014
+5	2	2	What's not to like?	3/27/2014
+4	1	1	Quick and Quiet	3/26/2014
+1	0	0	Dead in four weeks	3/24/2014
+2	0	0	terrible design	3/23/2014
+2	0	0	Didn't last	3/19/2014
+4	0	0	quite dryer	3/15/2014
+4	0	0	Dry your hair!	3/14/2014
+5	2	2	Hair Dryer	3/14/2014
+4	0	0	blow drys my fine hair	3/11/2014
+5	1	1	Awesome hair dryer!	3/11/2014
+5	1	1	Very good	3/10/2014
+5	1	1	Exactly as advertised	3/10/2014
+1	1	2	Never worked!	3/6/2014
+5	1	1	Good value!	3/2/2014
+5	1	1	It's a Hair Dryer.  It Works.  What More Could a Guy Want?	3/1/2014
+5	2	2	Great price and great product	2/26/2014
+1	1	2	Stopped working after 4 months	2/24/2014
+5	0	0	great product/price	2/22/2014
+3	0	0	Works as described	2/19/2014
+5	0	0	Great	2/19/2014
+4	0	0	Meh...	2/17/2014
+4	0	0	Good Dryer for the Price	2/16/2014
+5	0	0	Works Great	2/15/2014
+3	0	0	5-Mar	2/14/2014
+5	0	0	Fantastic dryer - excellent quality	2/14/2014
+5	0	3	Excelent	2/11/2014
+4	0	0	"Works great, good value"	2/11/2014
+4	1	1	"Works well, temperatures are a little different than what I used to."	2/7/2014
+4	0	0	Good Hair dryer but does not really blow hot air	2/6/2014
+4	0	0	great stuff!!	2/5/2014
+1	2	3	already broke	2/4/2014
+5	0	0	works great!	2/4/2014
+5	0	0	Love it!!!	2/4/2014
+5	0	0	No frills	2/3/2014
+4	0	0	Good	1/26/2014
+5	0	1	nice	1/24/2014
+4	0	0	For a cheap Hair drier it does a good job.	1/17/2014
+2	0	0	Don't Buy	1/15/2014
+4	0	0	wonderful product	1/15/2014
+2	1	1	Has some issues	1/14/2014
+5	0	0	Great	1/8/2014
+5	0	0	Great dryer!	1/8/2014
+5	0	0	AWESOME	1/8/2014
+1	0	1	Never worked	1/7/2014
+2	0	0	"Less than 1 year later, blows great, no heat!"	1/4/2014
+5	0	0	CONAIR 1875	1/4/2014
+5	0	0	Value for money hair dryer	1/3/2014
+5	0	0	Love this dryer	1/2/2014
+5	0	0	Great!	1/1/2014
+5	0	0	Best Buy in Hair Dryers	1/1/2014
+5	0	0	GREAT	12/31/2013
+4	0	0	well	12/30/2013
+5	0	0	Just what I wanted	12/29/2013
+4	0	0	Hair Raising!	12/27/2013
+1	0	0	Piece of junk	12/24/2013
+3	0	0	Melts easily	12/15/2013
+4	0	0	Works great!	12/11/2013
+5	0	0	Its Just right!	12/10/2013
+4	0	0	Good for the price.	12/6/2013
+5	0	0	Happy Hair	12/2/2013
+4	0	0	Great for the price!	12/2/2013
+5	0	0	works well.	11/25/2013
+5	0	0	Excellent Variety of Settings and Uses.	11/23/2013
+3	0	0	hair dryer	11/22/2013
+5	0	0	I'd recommend this!	11/19/2013
+5	0	0	Great!	11/16/2013
+2	1	1	died after 18 months but best concentrator attachment.	11/13/2013
+2	0	0	strong wind but poor quality	11/10/2013
+5	0	0	Nice hair dryer	11/8/2013
+4	1	1	Nice Conair dryer...	11/6/2013
+5	0	0	wow	10/28/2013
+4	1	1	Great hair dryer	10/25/2013
+5	0	0	Great Value	10/22/2013
+1	2	3	What a waste of money!	10/4/2013
+5	0	0	still living	9/22/2013
+5	0	0	Works really well	9/21/2013
+5	1	1	All you really need.	8/28/2013
+5	1	1	great price great product!	8/23/2013
+4	1	1	A good hair dryer but it is a very big	8/22/2013
+5	1	1	Light weight and not too loud	8/19/2013
+5	1	1	Cool Hair Dryer	8/18/2013
+2	1	1	Lasted about a year and half	8/17/2013
+5	0	0	Great dryer for the price	8/13/2013
+5	0	0	Great Hairdryer	8/11/2013
+5	0	0	Quiet at last!!	8/9/2013
+5	0	0	perfect	8/6/2013
+5	1	1	Good product	7/7/2013
+5	0	0	Works just as it's suppose to	7/3/2013
+4	0	0	Conair 1875 hairdryer	7/1/2013
+5	0	0	Good	6/20/2013
+5	0	0	Perfect product	6/12/2013
+5	0	0	Nice hair dryer!	6/12/2013
+4	0	0	Conair Styler	6/9/2013
+3	0	0	Cord is too short	6/1/2013
+5	0	0	This is awesome	5/28/2013
+5	0	0	Light and functional.	5/25/2013
+5	0	0	Best hair drier	5/22/2013
+5	0	0	I LOVE THIS HAIR DRYER!!	5/15/2013
+5	0	0	works great	5/2/2013
+5	0	0	Great product - great price	5/1/2013
+5	0	0	Conair 1875 watt Turbo Styler with Ionic Conditioning	4/30/2013
+4	0	0	easy to use	4/26/2013
+4	0	0	Hair Dried Fast	4/23/2013
+5	0	0	Great product!	4/22/2013
+4	0	1	Functional for guys	4/13/2013
+4	0	0	Lightweight	4/12/2013
+3	1	1	Good dryer. One problem.	4/11/2013
+5	0	0	Conair Puts Out Heat	4/5/2013
+5	1	1	love it!	3/28/2013
+5	0	0	Worth the money	3/23/2013
+2	1	1	"Not Very Powerful, Buttons Too Small"	3/21/2013
+5	0	0	bought as a gift	3/16/2013
+3	0	0	It works...	3/11/2013
+5	0	0	great!	3/6/2013
+5	0	0	Great	2/24/2013
+4	0	0	drys fast	2/23/2013
+2	0	0	Hard to handle	2/14/2013
+5	0	0	Conair 1875 hair dryer	2/4/2013
+2	1	1	Lasts Less than a Year	2/2/2013
+5	0	0	Love it!	1/20/2013
+4	1	1	What a buy	1/15/2013
+5	0	1	Bought as a spare	1/11/2013
+5	1	1	Works great	1/9/2013
+5	1	1	great buy	1/6/2013
+5	0	0	Conair Ion Shine 1875-Watt Hair Dryer- Blue	1/4/2013
+5	0	0	So wonderful! it comes with both attachments!	1/4/2013
+5	1	1	Works great	1/2/2013
+5	1	1	good	1/1/2013
+4	0	0	works well	12/31/2012
+2	0	0	Lukewarm	12/21/2012
+4	0	0	Great blower!	12/21/2012
+4	0	0	Does a Good Job	12/18/2012
+3	0	0	The cord is too short.	12/18/2012
+5	0	1	Its a blow dryer	12/13/2012
+5	0	0	So far so good	12/10/2012
+3	0	0	Nice for the price.	11/26/2012
+5	0	0	Yay	11/24/2012
+4	1	1	Powerfull	11/21/2012
+4	0	0	meets my expectation	9/26/2012
+5	0	0	it gets the job done quick	9/18/2012
+5	0	0	great hair dryer for the money	9/9/2012
+4	0	0	My favorite hairdryer	8/20/2012
+5	0	0	LOVE this dryer and price is unbelievable !!	8/5/2012
+5	0	0	Perfect for my hair!	7/13/2012
+1	2	3	Lame	7/6/2012
+2	0	0	Just the hair dryer I wanted .. or was it?	6/22/2012
+4	0	0	Great hairdryer	6/18/2012
+3	0	0	Decent hair dyer but nothing special	6/7/2012
+2	0	0	Not the best	5/2/2012
+3	0	0	Not a bad dryer	4/4/2012
+5	0	0	Great Blow Dryer	3/15/2012
+5	0	0	Love my new Conair Dryer	2/19/2012
+4	0	1	Great product with greta price	2/13/2012
+5	0	0	Great Dryer	1/22/2012
+5	0	0	"Great product, great price."	9/25/2011
+5	0	0	Great!	8/29/2011
+4	0	0	Great dryer	8/23/2011
+5	0	1	Conair Ionic Conditioning Pro Style 1875-Watt Hair Dryer	8/8/2011
+1	6	7	Was great now two have failed in a year	7/29/2011
+4	0	0	Quite a nice dryer...	7/26/2011
+5	0	0	Hair dryer	6/6/2011
+4	1	1	Great blow dryer! :)	5/24/2011
+1	4	5	Pretty Disappointing	5/18/2011
+4	23	24	Good investment - after several uses I am pleased with performance	3/28/2011
+4	0	0	It is still working	1/20/2011
+5	0	0	Conair Dyer	12/9/2010
+4	0	0	Love it but need now 220v/240 HELP!!!!	10/24/2010
+5	1	1	This dryer has an ionic on/off switch.	10/14/2010
+2	3	3	Meh	5/7/2010
+5	0	0	a good deal	3/5/2010
+5	0	0	Hair dryer	2/1/2010
+3	0	0	could be better	8/24/2009
+5	9	9	Good working hair dryer	8/16/2009
+4	0	0	"Not real strong, but works ok."	6/22/2009
+4	1	1	Decent hair dryer	5/5/2009
+3	0	0	blow dryer	4/13/2009
+4	0	0	Conair Full Size Hair Dryer	2/24/2009
+5	0	0	GREAT DRYER - WORTH THE MONEY!!!	1/19/2009
+4	0	0	Good deal.	12/22/2008
+5	2	2	Also warms toes nicely	10/16/2008
+1	0	0	NOT VERY STRONG	8/8/2008
+5	2	2	So far it's great	7/24/2008
+4	0	0	conair hairdryer	1/28/2008
+5	14	15	Dries hair quickly	4/15/2007
+5	2	3	...and I thought the ION feature was hype!	2/19/2007
+5	5	6	Great Hair Dryer	3/8/2006
+5	5	5	softest hair ever!	2/24/2006
+2	5	6	a Bit Disappointed	8/15/2004
+5	4	4	The best dryer!!!	7/13/2002
+3	320	332	"Some pluses, some minuses"	3/2/2002

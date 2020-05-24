@@ -1,0 +1,510 @@
+star_rating	helpful_votes	total_votes	review_headline	review_date
+5	0	0	Five Stars	8/28/2015
+5	0	0	Great hair dryer.	8/27/2015
+1	0	0	Piece of crap	8/26/2015
+4	0	0	Big and heavy	8/23/2015
+5	0	0	Five Stars	8/21/2015
+5	0	0	Five Stars	8/18/2015
+5	0	0	... of these in a hotel while on vacation and liked it so much I came home and ordered one	8/14/2015
+5	0	0	Great blow dryer!!	8/13/2015
+1	0	0	No good!	8/12/2015
+5	1	1	"Bought two, I liked it so much!"	8/10/2015
+2	0	0	OK while it worked.	8/7/2015
+5	0	0	Five Stars	8/7/2015
+3	0	1	The retractable cord rarely fully retracts and it doesn't seem ...	8/4/2015
+1	0	1	Dryer overheats and would not work	8/1/2015
+1	0	0	horrible	7/28/2015
+2	0	0	Two Stars	7/25/2015
+5	0	0	Five Stars	7/24/2015
+5	0	1	Five Stars	7/22/2015
+5	0	0	LOVE IT!!	7/21/2015
+2	1	1	I like the way it folds up	7/20/2015
+4	0	0	Four Stars	7/17/2015
+5	0	0	Great quality for inexpensive hair dryer!	7/16/2015
+2	0	0	Retractable cord no longer works.	7/15/2015
+1	0	1	Stopped working after 4 months!	7/15/2015
+5	0	0	Great product.	7/15/2015
+5	0	0	Five Stars	7/13/2015
+5	0	0	Five Stars	7/12/2015
+5	0	0	Quality hair dryer still working years later	7/10/2015
+5	0	0	Five Stars	7/9/2015
+4	0	0	Four Stars	7/6/2015
+3	0	0	Three Stars	7/5/2015
+5	0	0	Five Stars	6/30/2015
+4	0	0	"Good, compact dryer, but loud!"	6/30/2015
+4	0	0	Four Stars	6/24/2015
+4	1	1	cant beat it for the price.	6/20/2015
+5	0	0	"IT'S THE PERFECT SIZE, LOVE"	6/19/2015
+5	0	0	Five Stars	6/19/2015
+5	0	0	Great hair dryer!	6/19/2015
+5	1	1	Great hair dryer.	6/18/2015
+5	0	0	Five Stars	6/17/2015
+5	3	4	Awesome for Fine Hair	6/17/2015
+5	0	0	AWESOME !	6/16/2015
+5	1	1	I love this hair dryer	6/16/2015
+5	0	0	Five Stars	6/14/2015
+4	0	0	Smoothes the fizzies.	6/11/2015
+5	0	0	My last hairdryer....	6/8/2015
+5	0	0	Still Available	6/6/2015
+5	0	0	Good product	6/6/2015
+5	0	0	Excellent. Great Value	6/6/2015
+5	0	0	"Powerful, little dryer"	6/3/2015
+5	0	0	Five Stars	5/30/2015
+5	0	0	Five Stars	5/29/2015
+5	0	0	Five Stars	5/26/2015
+5	0	0	"Good size, power and temperature"	5/19/2015
+5	0	0	Love this!!	5/17/2015
+3	0	0	but I like the power	5/16/2015
+5	0	0	Five Stars	5/12/2015
+4	0	0	Four Stars	5/10/2015
+5	0	0	... dryer for a month but so far it's the best one I've ever had	5/9/2015
+4	0	0	Four Stars	5/8/2015
+5	0	0	Five Stars	5/7/2015
+5	0	0	Five Stars	5/3/2015
+4	0	0	Works well!	4/27/2015
+3	0	0	Things to consider before buying this dryer	4/23/2015
+5	0	0	Five Stars	4/19/2015
+4	0	0	"good power, able to dry hair quickly"	4/12/2015
+3	0	0	Three Stars	4/8/2015
+5	0	0	Wonderful hair dryer.	4/5/2015
+5	0	0	Five Stars	4/4/2015
+5	1	1	Five Stars	4/4/2015
+3	0	0	Three Stars	4/3/2015
+5	0	0	Five Stars	3/31/2015
+2	0	0	Absolutely not the hair dryer for you if you have small hands or arthritis	3/28/2015
+5	0	0	Retractable cord is awesome	3/25/2015
+5	0	0	"and the Cool setting, which I love"	3/24/2015
+4	0	0	Four Stars	3/21/2015
+5	0	0	but so far so good: )	3/17/2015
+2	0	0	"Great dryer, until cord stops retracting"	3/14/2015
+5	0	0	very happy with product	3/13/2015
+5	0	0	Loved it and now I own my own	3/11/2015
+4	0	0	Good little dryer	3/10/2015
+5	0	0	Best Hair Dryer I Have Ever Owned!	3/10/2015
+5	0	0	GREAT/AMAZING!	3/4/2015
+5	0	0	This hairdryer is perfect for thick hair	3/2/2015
+5	0	0	Five Stars	2/28/2015
+5	0	0	Five Stars	2/25/2015
+4	0	0	Four Stars	2/24/2015
+4	0	0	Great dryer...	2/24/2015
+5	0	0	Great hairdryer.	2/23/2015
+5	0	0	I really needed a new dryer and I'm glad I picked this one	2/21/2015
+4	0	0	Four Stars	2/21/2015
+5	0	0	New favorite hairdryer	2/20/2015
+5	0	0	Five Stars	2/14/2015
+5	0	0	Five Stars	2/10/2015
+3	0	0	Nice dryer	2/10/2015
+4	0	0	I would love for it to be a bit smaller and lighter	2/8/2015
+5	0	0	I really love this hairdryer	2/7/2015
+5	0	0	Five Stars	2/5/2015
+1	3	3	Plug broke after 1 month	2/5/2015
+5	0	0	Love it!	2/3/2015
+4	0	0	Good for travel	2/2/2015
+5	0	0	Five Stars	2/1/2015
+5	0	0	Five Stars	1/27/2015
+3	0	0	Three Stars	1/24/2015
+1	5	5	"Purchased it twice, both died suddenly"	1/22/2015
+5	0	0	Five Stars	1/22/2015
+2	0	0	Switch Failed	1/21/2015
+5	0	0	Five Stars	1/20/2015
+3	0	0	Nice dryer...disappointing features	1/20/2015
+1	0	3	"I don't remember why I sent this back, but ..."	1/20/2015
+5	0	0	Five Stars	1/18/2015
+5	0	0	Five Stars	1/16/2015
+3	1	1	Just not for me.	1/16/2015
+4	0	0	Four Stars	1/16/2015
+5	0	0	"Great buy, fast shipping"	1/12/2015
+2	0	0	but nowhere as good as when it was first purchased	1/9/2015
+5	0	0	Great Hair Dryer.	1/6/2015
+5	0	0	I love this hairdryer	1/6/2015
+5	0	0	Great dryer!	1/5/2015
+5	0	0	Fantastic!	1/5/2015
+5	0	0	Five Stars	1/5/2015
+5	0	0	Five Stars	1/4/2015
+5	0	0	Five Stars	12/31/2014
+1	0	2	My wife was looking forward to it so disappointed really.	12/25/2014
+5	0	0	and loved it.	12/24/2014
+5	0	0	Three more happy customers! All three have varied thickness of hair ...	12/16/2014
+3	0	0	I really wanted more speeds as it turns out. ...	12/13/2014
+2	0	0	Two Stars	12/12/2014
+5	0	0	This is a great portable hair dryer	12/11/2014
+4	1	1	Great hair dryer with plenty of power	12/9/2014
+4	1	1	"Great design, compact and nice features...."	12/5/2014
+2	1	1	Broken.	12/5/2014
+5	0	0	Five Stars	12/4/2014
+5	0	0	Five Stars	12/3/2014
+1	1	1	Should have listened to neg reviews on this product	12/1/2014
+5	0	0	It blows...and that's a good thing!	12/1/2014
+5	0	0	I love the retractable cord	11/29/2014
+2	1	1	Two Stars	11/25/2014
+2	0	0	Excellent product for such a great price	11/22/2014
+4	1	1	The dryer still works great after every day use	11/21/2014
+5	1	1	It takes some precision switching fr hot to cool & vise-versa	11/19/2014
+5	0	0	I had used it once in a hotel.  I like it getting my hair dry	11/17/2014
+5	0	0	Five Stars	11/15/2014
+5	0	0	Five Stars	11/12/2014
+5	1	1	"Great features, great buy!"	11/12/2014
+2	0	0	"OK Only For Drying, Not Styling."	11/4/2014
+3	0	0	Three Stars	11/3/2014
+5	0	0	Love it	11/2/2014
+5	1	1	Excellent First Introduced to this product at several 5 star ...	10/30/2014
+5	0	0	Great compact hair dryer	10/13/2014
+5	0	0	Five Stars	10/13/2014
+5	0	0	This is a great hair dryer for traving	10/13/2014
+5	0	0	Great hair dryer	10/12/2014
+4	0	0	Larger than I expected	10/9/2014
+5	0	0	Powerful little thing!	10/8/2014
+5	0	0	Five Stars	10/7/2014
+4	0	0	Great compact blow dryer for travelling or small spaces!	10/5/2014
+5	0	0	Five Stars	10/3/2014
+5	0	0	Five Stars	10/1/2014
+5	0	0	Great Hair Dryer	9/29/2014
+5	0	0	Nice Hairdryer!	9/24/2014
+5	0	0	Magic?	9/21/2014
+5	0	0	Five Stars	9/19/2014
+5	0	0	Five Stars	9/18/2014
+5	0	0	Perfect blow dryer for home and the road. You'll only need one!	9/14/2014
+5	0	0	Stayed at a hotel that had this specific dryer. ...	9/12/2014
+5	0	0	Awesome dyer	9/11/2014
+5	0	0	Andis RC-2 Ionic 1875W hair dryer	9/11/2014
+5	0	0	Five Stars	9/10/2014
+5	0	0	Five Stars	9/6/2014
+5	0	0	Compact and powerful. Just what I was looking for ...	9/5/2014
+5	0	0	My mother used this in a hilton and loved it so she came home and asked me to ...	9/5/2014
+3	0	0	It was great until it wasn't.	9/4/2014
+5	0	0	The Best	9/3/2014
+3	0	0	OK but has it's drawbacks	9/3/2014
+3	1	1	Good but Not Great	9/2/2014
+5	1	1	good product	8/26/2014
+5	0	0	Really like the results so I decided to order one for ...	8/23/2014
+4	0	0	"Bought for husband. He loves it, which this ..."	8/21/2014
+5	0	0	Five Stars	8/20/2014
+4	0	0	Good hair dryer	8/12/2014
+2	1	1	I would not recommend this product	8/10/2014
+4	0	0	great to have for travel not super small but it ...	8/10/2014
+5	0	0	Five Stars	7/29/2014
+5	0	0	Five Stars	7/28/2014
+5	2	2	A great dryer for wavy hair	7/27/2014
+2	0	0	Two Stars	7/27/2014
+5	0	0	Five Stars	7/27/2014
+5	0	0	Works great. We actually used this in a hotel and ...	7/26/2014
+5	0	0	It is kind to my thinning hair (I'm 65+) and easy to handle	7/26/2014
+5	0	0	Excellent Dryer	7/25/2014
+5	0	0	Great for travel	7/19/2014
+4	0	0	"3mo, holding up strong and traveled to UK and ..."	7/15/2014
+2	0	0	'High' and 'cool' settings are way too strong...	7/13/2014
+5	1	1	Great Quality and So Compact	7/10/2014
+4	0	0	It works	7/10/2014
+5	0	0	Excellent	7/7/2014
+5	0	0	"Well designed, works well too."	6/29/2014
+5	1	1	Great Blowdryer that Travels Well	6/28/2014
+5	0	0	hotel hairdryer proved great	6/27/2014
+3	0	0	Not dual voltage	6/25/2014
+5	0	0	Just right!	6/25/2014
+5	0	0	Wonderful !	6/24/2014
+5	1	1	AWESOME!	6/20/2014
+3	0	0	Larger and heavier than expected	6/19/2014
+5	0	0	Perfect for curly hair	6/17/2014
+5	0	0	Absolutely the best hairdyer	5/31/2014
+5	0	0	Great 3-speed blow dryer!	5/21/2014
+5	0	0	Must have hair dryer	5/19/2014
+5	0	0	There's no such thing as a quiet hair-dryer.	5/7/2014
+5	0	0	Wonderful!	5/2/2014
+3	0	0	Great Dryer But Needs a Nozzle	4/29/2014
+5	0	0	Got this one becos of ritz carlton	4/24/2014
+5	0	0	Love it!	4/20/2014
+5	0	0	"Used at Hotel, Had to Have it, Just Great!"	4/19/2014
+5	0	0	Perfect	4/18/2014
+5	0	0	Love this hair dryer	4/17/2014
+5	0	0	Excellent	4/9/2014
+4	0	0	Easy and Effective	4/8/2014
+4	0	0	Great Product	4/3/2014
+5	0	0	Great product!!	4/3/2014
+5	0	0	A great travel dryer	4/1/2014
+5	0	0	Works Great!	3/30/2014
+5	0	0	AWESOME!	3/29/2014
+5	0	0	Love it so far!	3/27/2014
+4	0	0	Nice ceramic dryer for a low price	3/25/2014
+5	0	0	The greatest blowdryer ever!	3/24/2014
+1	1	5	Cord wont retract	3/24/2014
+2	0	0	It's a basic hairdryer...without a diffuser and hardly functioning retractable cord	3/23/2014
+5	0	0	Great!!	3/20/2014
+4	0	0	Very good lightweight ionic dryer	3/17/2014
+3	0	0	It broke!	3/17/2014
+3	1	2	travel dryer??	3/14/2014
+4	0	0	Still kind of heavy and cord refused to retract after a few months	3/13/2014
+5	0	0	best product!	3/13/2014
+5	0	0	Salon quality for drugstore price	3/10/2014
+3	0	0	Retractable Cord	3/10/2014
+4	0	0	Powerful little hair dryer but be aware the cord doesn't retract all the way	3/7/2014
+5	0	0	Great hair dryer for the money	3/3/2014
+4	0	0	Like	3/3/2014
+1	0	2	NOT DUAL VOLTAGE	3/3/2014
+5	0	1	Spend less time drying more time beautiful	3/1/2014
+4	0	0	Andis hair dryer	2/28/2014
+5	0	0	Good	2/27/2014
+5	0	0	Great power	2/23/2014
+2	0	1	Basic travel dryer	2/20/2014
+5	0	0	Better than any others!	2/20/2014
+5	0	0	Best hair dryer I've ever used	2/19/2014
+5	0	0	Great Dryer	2/18/2014
+5	0	0	Excellent	2/18/2014
+5	0	0	Better than I expected	2/14/2014
+5	0	1	"Wife loves it, and holds up very well after several bashes on my head with it."	2/12/2014
+4	0	0	Great power	2/12/2014
+2	0	1	Doesn't heat up	2/9/2014
+5	0	0	Great little blow dryer	2/9/2014
+4	0	0	Andis RC-2 Ionic1875W Ceramic Hair Dryer with Folding Handle and...	2/8/2014
+5	0	0	I love this thing	2/4/2014
+4	0	0	Great blow dryer...	2/1/2014
+5	0	0	dryer	1/27/2014
+5	0	0	I LOVE EVRYTHING ABOUT THIS HAIR DRYER	1/25/2014
+2	0	1	Skip this one	1/22/2014
+4	0	0	Good for 6-months to a year	1/20/2014
+5	0	0	Love It !!	1/18/2014
+5	0	0	Good hair dryer!	1/16/2014
+5	0	0	Nice size for travel	1/15/2014
+3	0	1	Andis hair dryer	1/15/2014
+5	0	0	Best hairdryer hands down	1/14/2014
+5	1	1	Size  Really a 4.5 star rating.	1/12/2014
+5	0	0	Ceramic Hair Dryer with Unique Features	1/11/2014
+5	0	0	This One's a Keeper!	1/9/2014
+3	0	0	missing some controls	1/7/2014
+5	0	0	"Peace out, expensive dryers"	1/1/2014
+1	0	2	Retractable cord doesn't work	1/1/2014
+5	0	0	Great compact dryer	12/23/2013
+5	20	20	Compact yet strong enough.	12/20/2013
+5	0	0	GREAT PRODUCT!	12/19/2013
+5	1	1	The best hairdryer!	12/14/2013
+3	0	0	Andis Dryer	12/13/2013
+5	1	1	Rating for Andis RC-2 tonic 1875W ceramic hair dryer	12/12/2013
+5	1	1	Love the retractable cord!	12/12/2013
+3	0	0	"Too Heavy For Me, But Dries Well"	12/6/2013
+5	0	0	Great Dryer for the Bucks	12/4/2013
+5	0	0	Andis Ceramic Hair Dryer	11/26/2013
+5	0	0	perfect for occasional use	11/24/2013
+2	0	0	"Handy, good, but not great"	11/20/2013
+4	0	0	great	11/19/2013
+4	0	0	Dryer is OK	11/15/2013
+3	0	0	"Not the best, but it is okay."	11/14/2013
+5	0	0	My Wife loved it...	11/7/2013
+5	1	1	Great Product	11/6/2013
+5	0	0	Love it.	11/5/2013
+5	0	0	Great prcve great performance.	11/3/2013
+5	1	1	Great Hairdryer!!	10/29/2013
+5	1	1	Love Andis	10/28/2013
+3	1	1	Fair to Midway	10/25/2013
+3	0	0	Too cold	10/25/2013
+5	0	0	Awesome	10/24/2013
+3	1	1	Hot?! Not...	10/21/2013
+5	0	0	LOVE this dryer	10/17/2013
+1	1	3	First one great second one not so great!	10/16/2013
+4	1	1	Good Product	10/13/2013
+5	1	1	Excellent value.  Item received as advertised.  Compact.  Efficient	10/8/2013
+3	2	2	Does the job...barely.	10/7/2013
+5	0	0	Nifty Hair Dryer	10/6/2013
+1	0	0	A total waste of money!	9/23/2013
+5	0	0	would buy again	9/21/2013
+5	1	1	Great travel choice!	9/14/2013
+5	0	0	Bought for a gift	9/6/2013
+5	2	2	Ansis RC-2 Ionic 1875 Ceramic Hair Dryer	9/4/2013
+5	0	0	Great hair dryer	9/3/2013
+4	0	0	Folding Handle is good!	9/1/2013
+5	1	1	Great Hair Dryer	8/27/2013
+1	0	1	This thing BLOWS (and not in a good way)	8/26/2013
+5	1	1	Healthy looking hair	8/24/2013
+3	0	0	Good dryer	8/23/2013
+3	1	1	Too Darn Big	8/18/2013
+5	0	0	great dryer so far!	8/16/2013
+5	0	0	Great Deal	8/15/2013
+5	1	1	I've had mine for close ten years & still works great.	8/9/2013
+4	0	0	Great size for travel!	8/6/2013
+5	0	0	IT FITS OUR NEEDS PERFECTLY	8/5/2013
+2	0	0	Cord won't retract after two months	8/4/2013
+5	0	0	Great Non-Harsh Dryer	8/2/2013
+2	0	0	This is a poorly made product and I'm not buying it again. I'm going to write the Andis company directly.	7/15/2013
+1	1	1	Broke After a Trip	7/5/2013
+5	0	1	Absolutely love it!	6/29/2013
+5	0	0	Great Hair Dryer	6/16/2013
+5	2	2	Excellent for traveling	6/15/2013
+5	2	2	Andis RC-2 Ionic 1875W Ceramic hair dryer	6/10/2013
+2	1	1	Travel dryer	6/10/2013
+4	0	0	Efficient hair dryer	5/29/2013
+4	0	0	love it	5/25/2013
+5	1	1	Fantastic	5/24/2013
+2	1	1	It is not  Dual Votage	5/22/2013
+5	0	0	Love It !!	5/16/2013
+5	0	0	Used first at a hotel inFL.	5/15/2013
+5	0	0	One of the best hair dryers!	5/2/2013
+5	0	0	Excellent Blow Dryer	5/1/2013
+5	1	1	Great hair dryer to reduce frizz and gentle on hair	4/30/2013
+5	0	0	good dryer	4/24/2013
+4	0	0	"Works Well, But a Bit Large"	4/20/2013
+5	0	0	Great	4/20/2013
+4	0	0	great dryer	4/17/2013
+5	0	0	hairdryers	4/13/2013
+5	0	0	Great product	3/30/2013
+4	0	0	JUST BOUGHT MY SECOND ONE!	3/30/2013
+5	0	0	Does not frizz	3/16/2013
+2	1	1	Cord didn't retract	3/14/2013
+3	0	0	Retractable cord worked great for a few months	3/11/2013
+5	0	0	great	3/4/2013
+3	1	1	not quite what expected	2/28/2013
+5	0	0	"This thing BLOWS! (ha, ha, ha)"	2/27/2013
+5	0	0	Best hair dryer	2/24/2013
+5	0	0	Very satisfied.	2/22/2013
+4	0	0	Would of given it a 5 star if the handle were more ergonomic	2/20/2013
+5	0	0	Great Hair dryer	2/19/2013
+5	0	0	Fast drying time	2/18/2013
+4	0	0	I like this hair blower!	2/15/2013
+3	0	0	Hair dryer	2/13/2013
+5	0	0	Andis hair dryer	2/12/2013
+5	0	0	Liked It So Much Bought Two	2/11/2013
+5	1	1	I love this dryer - great value	2/10/2013
+5	0	0	Andis RC2 Iconic Hair Dryer	2/9/2013
+4	0	0	there's only one thing wrong...	2/7/2013
+5	1	1	Andis RC-2 Ionic 1875W Ceramic Hair Dryer.	1/28/2013
+4	0	0	Like but too heavy.	1/27/2013
+2	1	1	Heat stopped working after less than 2 years : (	1/26/2013
+1	1	1	Stopped working after 4 months	1/20/2013
+4	0	0	great little hair dryer	1/15/2013
+1	1	1	Used only twice before it died	1/14/2013
+5	0	0	Just like a fancy hotel	1/8/2013
+5	0	0	"Great Features, but is it durable?"	1/7/2013
+5	0	0	Perfect	1/5/2013
+5	0	0	Great Product!	1/1/2013
+5	0	0	Neat Addition to kit	1/1/2013
+5	1	2	Pretty neat little dryer	1/1/2013
+5	0	0	Bought as a back-up	12/31/2012
+5	0	0	Gift list	12/31/2012
+3	0	0	"Worked great while it lasted, good for travel"	12/31/2012
+5	0	0	Awesome dryer	12/30/2012
+3	1	1	Not impressed	12/29/2012
+5	0	0	Best hair dryer of this kind I have ever bought.	12/26/2012
+5	0	0	its a small hair dryer!	12/25/2012
+4	0	0	BOUGHT FOR USE BY GUESTS	12/23/2012
+4	0	0	Christmas Gift	12/22/2012
+4	1	1	It is huge	12/22/2012
+4	0	0	Great Hair Dryer	12/19/2012
+5	0	0	so nice	12/16/2012
+5	0	0	Hair Dryer	12/9/2012
+4	0	0	Everything works as expected	12/7/2012
+2	0	0	Could be better	12/7/2012
+2	0	0	Not a compact dryer	12/1/2012
+5	0	0	great travel hairdryer	11/28/2012
+5	0	0	works well and is convenient	11/28/2012
+1	1	1	If you want your cord retractable dont buy it.	11/21/2012
+5	0	0	Great Blow Dryer	11/16/2012
+5	0	0	A very handy hair dryer	11/15/2012
+5	0	0	Terrific hairdryer	10/31/2012
+5	0	0	A Great Mid-Sized-Compact Hair Dryer	10/25/2012
+5	0	0	"Attractive, functional, and durable. Great for at home or on the road."	10/24/2012
+4	0	0	Exactly what I expected	10/20/2012
+5	0	0	Great hair dryer	10/9/2012
+5	0	0	Nice product and very portable	10/8/2012
+5	0	0	I bought this after trying it at a hotel	10/3/2012
+1	0	1	Don't buy this Andis blow dryer!	9/26/2012
+5	1	1	Adis Hair dryer	9/9/2012
+4	0	0	Good lifespan for price	9/9/2012
+4	0	0	Strong dryer	9/9/2012
+5	1	1	The Best!	8/11/2012
+5	1	1	Love this dryer	8/6/2012
+5	1	1	Great little hairdryer....	8/5/2012
+3	1	1	I like it but	8/4/2012
+5	0	0	I'm Buying Another	7/30/2012
+1	0	0	Piece of junk.	7/26/2012
+5	0	1	Met expectations	7/22/2012
+4	7	8	Misrepresented it is not small for traveling purposes	7/3/2012
+5	0	0	I love this hair dryer	6/23/2012
+5	0	0	Love this hairdryer	6/22/2012
+5	1	1	It's like being at a hotel!	6/6/2012
+5	1	1	Andis 1875 watts	6/2/2012
+5	0	0	LOVE IT!!!	5/29/2012
+5	1	1	Buying Second Dryer for Reserve	5/29/2012
+5	1	1	Great Dryer!	5/22/2012
+4	0	0	Works well	5/20/2012
+4	0	0	"First worked for three years, second for three seconds"	5/17/2012
+5	0	0	Love this hair dryer	5/5/2012
+3	0	0	Industrial strength dryer with retractable cord	4/23/2012
+1	0	3	Need Help with operation...	4/2/2012
+3	0	0	Larger in size than expected	3/4/2012
+5	0	0	Quiet and convenient to use..	2/1/2012
+4	0	0	Andis dryer	1/30/2012
+5	0	0	Love this dryer!	1/16/2012
+5	0	0	I LOVE this hair dryer!	1/14/2012
+4	0	0	Very Happy!	1/13/2012
+5	0	0	Exactly as described	1/5/2012
+3	4	4	Works very well but is a little heavy	12/3/2011
+1	1	2	Died an Early Death and No Return	11/27/2011
+4	0	0	And is RC-2 Ionic1875w ceramic hair dryer	11/20/2011
+3	2	3	"Good dryer, but cord is NOT retractable"	11/16/2011
+4	1	2	"Powerful, and Retractable Cord a Plus!"	10/27/2011
+5	0	0	Smart and powerful!	10/8/2011
+1	1	1	not durable	9/12/2011
+3	1	1	LOUD & Cord Gets Stuck (Does Not Retract All the Way)	9/11/2011
+5	1	1	Great Blow Dryer but be careful pulling out the cord...	8/25/2011
+5	1	1	Great hair dryer	7/31/2011
+5	0	1	Best blowdryer ever!!!	7/28/2011
+5	4	4	still working after 2 years	6/24/2011
+5	1	1	Simple and functional	6/16/2011
+5	1	1	Good Dryer	6/16/2011
+4	1	1	Really great hair dryer	6/15/2011
+4	0	0	Very satify for the price and perfornance	6/9/2011
+5	0	0	Excellent purchase experience.	5/21/2011
+4	0	0	Great Hair dryer	5/19/2011
+5	2	3	Best hairdryer ever!!!!	5/14/2011
+1	8	9	"Loved it, then it died."	4/11/2011
+3	1	1	not good for people with arthritis or smaller hands	3/20/2011
+4	1	1	I Like It	3/11/2011
+5	0	0	Powerful for a travel hair dryer	3/4/2011
+5	0	0	Awesome hair dryer	2/17/2011
+5	0	0	Great hair dryer	1/21/2011
+5	1	1	Great hair dryer for the price.....	1/21/2011
+3	0	0	Andis RC-2 Hairdryer Not Made for the Long Haul	1/14/2011
+1	0	0	Lasted exactly one year	1/8/2011
+2	0	1	Worked great but didn't last	12/31/2010
+5	0	0	Finally a hairdryer that cuts down drying time!	12/4/2010
+5	0	0	Efficient and compact hair dryer	11/24/2010
+3	0	0	Andis RC-2 Ionic 1875W Ceramic Hair Dryer	10/26/2010
+4	0	0	Big Blower	10/23/2010
+5	0	0	Excelllent Dryer	10/7/2010
+5	0	0	Happy!	10/3/2010
+1	1	1	Not a reliable choice	9/15/2010
+5	0	0	great hair dryer	8/27/2010
+4	0	0	Andis RC-2 Ionic Hair Dryer	8/9/2010
+1	0	0	Had to Return Them	7/12/2010
+5	1	1	Well Worth the $$$$	6/24/2010
+1	4	5	Beware electrical GFI doesn't work!	6/15/2010
+4	0	0	"Good hairdryer, retractable cord could be better, only lasted 7 months"	6/8/2010
+5	0	0	great buy!	4/30/2010
+3	0	0	not even a year and the cord stopped retracting	4/22/2010
+5	0	0	Great hairdryer	3/24/2010
+1	1	1	flawed	2/22/2010
+5	0	0	fastest blow dryer ever!	12/22/2009
+4	2	2	Not Quite What I Wanted But A Good Dryer	12/18/2009
+5	1	1	Great travel dryer at a great price	12/5/2009
+1	12	13	Disappointed Andis Purchaser	11/8/2009
+5	1	1	Excellent hair dryer	8/27/2009
+5	57	60	"Does the job, for it's size...[updated]"	8/14/2009
+5	2	2	Hairdryer	7/1/2009
+4	1	2	"BEST FOLDING HANDLE, RETRACTABLE CORD DRYER"	6/26/2009
+5	1	1	Love This Dryer!!!	3/18/2009
+5	0	0	"Nice full-sized dryer, also folds for travel"	1/10/2009
+2	1	1	Works well but only for a while	11/25/2008
+5	1	1	Great dryer and love the folding handle!	11/20/2008
+5	0	0	Excellent Travel Dryer!	11/19/2008
+5	1	1	Love this hair dryer!	8/13/2008
+5	0	0	Great hair dryer!!	8/3/2008
+4	1	1	decent hairdryer	6/2/2008
+5	1	1	Love it!	3/15/2008
+5	1	1	Ceramic Blow dryer	12/4/2007
+2	0	0	Just okay but STOPPED WORKING	4/24/2007
+1	13	13	I No Longer Recommend It	3/13/2007
+4	1	1	product good	3/10/2007
+1	2	6	Don't buy this or any other Andis products	1/27/2007
+4	1	1	A Retractable Hair-Dryer?	1/18/2007
+5	256	261	Best hair dryer for the money	12/2/2006
+3	99	107	Good ... and not so good	5/28/2006
+4	2	3	Works great - but I'm a bit nervous...	3/8/2006
+5	4	4	"Tough on my cat, but great on hair!"	1/13/2006
+4	263	270	"Great product and the only ceramic, ionic blow dryer with a retractable cord"	9/15/2005

@@ -1,0 +1,233 @@
+star_rating helpful_votes total_votes review_headline review_date
+5	2	2	Five Stars	8/20/2015
+3	0	0	TRUE TO ITS NAME	8/18/2015
+4	1	1	Good things come in small packages	8/13/2015
+5	1	1	Adorable and Great for Fine Hair.	8/9/2015
+4	0	0	Great little hair dryer	7/29/2015
+5	0	0	Five Stars	7/9/2015
+4	0	0	**use on low only if you are running on 220v**	7/5/2015
+4	0	0	Con air hair dryer	7/3/2015
+5	0	0	but if it lasts I would definitely recommend it.	7/2/2015
+2	0	1	Two Stars	6/25/2015
+5	1	1	Powerful	6/24/2015
+5	1	1	Five Stars	6/23/2015
+5	1	1	Great little dryer!	6/21/2015
+5	1	1	This is perfect for travel	6/18/2015
+1	0	1	The blow dryer is very light and had good power but failed completely in less than 2 months	6/17/2015
+5	1	1	Best dryer	6/9/2015
+3	0	0	It worked fine with the adapter	6/6/2015
+5	1	1	Five Stars	6/3/2015
+5	1	2	Best	6/2/2015
+5	0	0	Amazing hair dryer for its size and price!	5/31/2015
+2	0	0	Two Stars	5/30/2015
+4	0	0	Good but now over priced @ 19.95	5/27/2015
+4	1	1	Super tiny but powerful	5/23/2015
+4	1	1	INEXPENSIVE DRYER GETS THE JOB DONE	5/22/2015
+3	1	1	It's okay.	5/13/2015
+1	1	1	One Star	5/11/2015
+5	1	1	Love it!	5/7/2015
+5	0	0	Five Stars	5/1/2015
+5	0	0	Great little travel hair dryer...and it's PINK!	4/29/2015
+4	0	0	Pink powerhouse.	4/24/2015
+3	0	0	This is a nice tiny size for traveling	4/21/2015
+5	0	0	It is perfect for travel	4/20/2015
+5	0	0	Five Stars	4/20/2015
+5	0	0	Five Stars	4/14/2015
+3	1	1	it IS all of those things but I have a much nicer travel hair dryer that doesn't feel like it is just going to snap in two	4/3/2015
+4	0	0	Great little hair dryer for the money	4/3/2015
+5	0	0	Just as powerful as a full-size dryer	4/2/2015
+4	0	0	Love it. Perfect for travelling	3/23/2015
+5	0	0	Five Stars	3/22/2015
+5	0	0	Five Stars	3/20/2015
+5	0	0	Five Stars	3/14/2015
+5	0	0	I love that this comes with a little diffuser	3/14/2015
+5	0	0	Compact and powerful!	3/14/2015
+5	1	1	best small hairdryer	3/9/2015
+4	0	0	I have thin fine hair and it is gentle enough on my hair ...	3/8/2015
+5	0	0	good product for the money	3/4/2015
+5	0	1	Five Stars	3/1/2015
+3	0	0	Conair name sold me!	2/26/2015
+1	2	2	Seems great at first	2/24/2015
+5	0	0	My mom wanted a small and powerful hair dryer and ...	2/20/2015
+4	0	0	This is a good little unit	2/17/2015
+5	0	0	... dryer so I could dry my Silky Terrier's long fine hair after her bath	2/16/2015
+1	0	0	One Star	2/10/2015
+5	0	0	Five Stars	2/9/2015
+5	0	0	It worked wonderful!	2/5/2015
+5	0	0	I love my light weight hair blower	2/4/2015
+5	0	0	Nice size for kids	2/3/2015
+5	0	0	Perfect for My 6 yr old daughter	2/2/2015
+5	0	0	Great travel hairdryer!	1/30/2015
+5	0	1	This hair dryer is small but its engine is powerful ...	1/28/2015
+5	0	0	Five Stars	1/28/2015
+5	0	0	Light Weight!	1/21/2015
+3	2	2	The hair dryer seems to be of good quality so far	1/21/2015
+5	0	0	Great hair dryer wrapped into a small size!	1/21/2015
+1	0	0	"If you need dual-voltage, spend your money elsewhere"	1/18/2015
+4	0	1	Four Stars	1/13/2015
+4	0	0	good traveling hairdryer	1/12/2015
+5	0	0	Cute hair dryer	1/8/2015
+4	0	0	Four Stars	1/7/2015
+3	0	0	Three Stars	1/6/2015
+5	0	0	Better than the one I use usually at	1/4/2015
+4	0	0	"Small yet powerful, Almost perfect...."	1/3/2015
+5	0	0	Great little hair dryer	12/29/2014
+5	0	0	Five Stars	12/29/2014
+5	0	0	MiniPRO by Conair Tourmaline Ceramic Hair Dryer	12/29/2014
+4	0	0	Four Stars	12/27/2014
+2	0	0	Two Stars	12/27/2014
+5	0	0	perfect for traveling but with great power	12/26/2014
+1	0	0	I was extremely disappointed in this hair dryer	12/24/2014
+3	2	2	Not for thick hair	12/15/2014
+1	1	2	DON'T buy it!!!!	12/15/2014
+4	0	0	Glad I bought it.	12/13/2014
+5	0	0	Five Stars	12/10/2014
+5	0	0	"Bought as a travel dryer, but it's so light ..."	12/7/2014
+4	0	0	great for price	12/3/2014
+5	0	0	Tiny AND Powerful	12/3/2014
+1	0	0	One Star	12/2/2014
+5	0	0	dryer	11/27/2014
+5	1	1	"Looks & feels like a toy, but works well!"	11/22/2014
+1	1	1	WASTE of money & effort	11/20/2014
+5	0	0	Yes!	11/16/2014
+3	1	1	Three Stars	11/14/2014
+5	1	1	Great buy.	11/14/2014
+5	0	0	Like it	11/9/2014
+5	1	1	A Satisfactory!	11/2/2014
+5	0	0	Five Stars	10/30/2014
+4	0	0	Great purchase!	10/27/2014
+3	0	0	Small & Lightweight.	10/26/2014
+5	0	0	Five Stars	10/24/2014
+1	0	0	> Horrible defective product	10/23/2014
+5	0	0	Five Stars	10/19/2014
+4	0	0	Four Stars	10/18/2014
+5	0	0	Five Stars	10/18/2014
+5	0	0	Five Stars	10/11/2014
+5	0	0	Lightweight but packs a punch	10/7/2014
+5	0	0	Five Stars	9/29/2014
+3	0	0	Hot Air	9/26/2014
+5	0	0	Five Stars	9/26/2014
+5	0	0	"Takes Good Care of my Fine, Thin Hair"	9/23/2014
+5	0	0	LOVE IT!	9/13/2014
+3	1	1	and while it dried most of my hair in pretty decent time	9/12/2014
+5	0	0	great power for size	9/9/2014
+5	0	0	little dynamo	9/6/2014
+4	0	0	Four Stars	9/6/2014
+3	0	0	almost toy like. Decided to stick it in the cabinet for ...	9/5/2014
+4	0	0	Four Stars	9/5/2014
+1	0	0	Don't buy	9/3/2014
+5	0	0	Love this little dryer	8/28/2014
+5	0	0	So far so good. Light weight for my 87 yr old mom ...	8/27/2014
+5	1	1	Five Stars	8/8/2014
+3	2	2	Three Stars	8/6/2014
+3	2	2	... size but the plastic gets very warm and seems like it could be a hazard after prolonged use	8/1/2014
+5	1	1	Five Stars	7/31/2014
+5	0	0	Packs a Punch!	7/25/2014
+1	2	3	Not good for medium to long hair.	7/24/2014
+5	0	0	Five Stars	7/20/2014
+4	5	6	It is great for a travel blow dryer	7/19/2014
+3	0	0	but it's easy to travel with and it work	7/18/2014
+5	0	0	Five Stars	7/14/2014
+5	0	0	Five Stars	7/7/2014
+2	2	2	Poor	7/3/2014
+5	0	0	Love this little blow dryer!	6/25/2014
+1	2	2	Conair Hair Dryer	6/25/2014
+5	0	0	Powerful Lil Thing!	6/25/2014
+5	0	0	Happy Camper!	6/20/2014
+4	0	0	Wish it had a comb attachment	6/17/2014
+2	0	0	Burned out at about the 5th use	6/17/2014
+5	0	0	Love it!	6/9/2014
+5	0	0	Great small dryer	6/7/2014
+5	0	0	Small can be powerful	6/7/2014
+5	1	1	Great little guy!	6/7/2014
+4	0	0	Very powerful for the size	6/1/2014
+1	0	7	Light weight	5/27/2014
+5	1	1	Great travel hair dryer	5/22/2014
+5	0	0	Tiny tiny and perfect for travel.	5/15/2014
+5	0	0	Small but effective	5/13/2014
+2	4	5	Cute but not good in Europe...	5/13/2014
+4	0	0	Great for home	5/13/2014
+5	0	0	"Great Dryer, Especially for the price!"	5/10/2014
+5	0	0	Powerful Little Unit	5/6/2014
+5	4	4	Great little dryer	4/25/2014
+4	1	1	Works just fine	4/16/2014
+5	0	0	Great little compact	4/16/2014
+5	0	0	Tiny but powerful	4/13/2014
+4	0	0	Great little machine.	4/2/2014
+5	0	0	"Small Size, Big Power"	3/29/2014
+5	0	0	Works perfectly	3/27/2014
+3	0	0	Does the job	3/25/2014
+4	1	1	Almost perfect hair dryer	3/21/2014
+5	0	0	Perfect size	3/18/2014
+5	0	0	Best light weight hair dryer	3/13/2014
+4	0	0	"Tiny and portable, good, effective"	3/10/2014
+5	0	0	I LOVE THIS HAIR DRYER	2/27/2014
+2	1	1	Dual voltage FAIL	2/25/2014
+5	2	2	Exactly what I was looking for	2/24/2014
+5	0	0	AWESOME!	1/22/2014
+1	7	8	Product stopped working after using it only 2 times	1/15/2014
+5	0	0	Perfect for my daughter!	1/6/2014
+5	0	0	Great product.	1/5/2014
+4	0	0	Blows you away	12/27/2013
+5	0	0	I am fussy!!	12/21/2013
+4	0	0	At first glance...	12/21/2013
+5	0	1	It definitely is Mighty and Mini! I love it!	12/11/2013
+5	0	0	great styler!!	12/11/2013
+5	0	0	Powerful for its size	12/8/2013
+5	1	1	Finally a Small Blower With a Diffuser That Works	12/7/2013
+5	0	0	Amazing	12/2/2013
+5	1	1	Infinity by Conair Mighty Mini Blow Dryer	12/2/2013
+4	0	0	Great Travel dryer	12/1/2013
+4	0	0	"A quiet, small, life-weight that does the job"	11/23/2013
+3	0	0	Not as powerful as others led me to believe.	11/21/2013
+2	1	1	Disappointed in the diffuser	11/11/2013
+5	0	0	Perfect for travel....	10/28/2013
+3	0	0	Hair Dryer	10/17/2013
+4	0	0	Amazing power	10/16/2013
+5	0	0	Great travel dryer	10/16/2013
+4	0	0	I needed a small dyer and this is perfect	10/5/2013
+5	0	0	"Compact, lightweight, and durable"	10/3/2013
+5	0	0	Love it	9/16/2013
+5	0	0	Perfect for travel or home.	9/13/2013
+5	0	0	Just like my old one...does what I need it to	9/13/2013
+5	3	3	"It Looks Like a Toy, but"	8/27/2013
+4	0	0	Great for travel	8/13/2013
+4	0	0	Diffuser is very tiny	8/4/2013
+4	3	4	Great but lower watts	7/22/2013
+1	2	2	Disappointing	7/21/2013
+4	0	0	It's great	7/14/2013
+5	1	1	Great product!	7/12/2013
+5	1	1	Great	7/9/2013
+5	1	1	Small but mighty!	6/27/2013
+4	2	2	Vacation lifesaver	5/28/2013
+5	1	1	so wonderful	5/27/2013
+4	2	2	Small & light weight	5/17/2013
+5	1	1	Lightweight easy to use hairdryer	5/14/2013
+5	2	2	great product!	5/13/2013
+5	0	0	Great Travel Dryer!	5/5/2013
+4	0	0	"Great blow dryer, made me feel like Barbie"	4/27/2013
+4	0	0	mini mightiness	4/17/2013
+4	0	0	Nice little hair dryer	4/13/2013
+2	0	0	Cheap	3/22/2013
+5	0	0	Great for small bathrooms and travelling.	3/20/2013
+5	0	0	nice and powerful especially for its size	3/20/2013
+5	1	1	mini hair dryer	3/12/2013
+5	0	0	Awesome LITTLE hairdryer!	3/11/2013
+4	0	0	Happy with the product	3/10/2013
+5	0	0	Great Price for a Great Product	3/6/2013
+1	7	10	It blew out	2/19/2013
+1	5	7	Three days of use	2/18/2013
+5	0	0	Def packs a punch	2/2/2013
+5	0	0	This newer model is not the folding older model. Both work excellently though	1/31/2013
+5	1	1	love it	1/19/2013
+5	0	0	Super little dynamo!!	1/11/2013
+5	0	0	Convenient	1/9/2013
+5	4	4	Great for International Travel	1/5/2013
+2	1	2	Read the fine print	12/21/2012
+5	6	6	Is small BUT powerfull!	12/10/2012
+4	1	1	Useful and parctical	12/1/2012
+2	0	1	Not really digging it	9/18/2012
+5	0	0	Just what I was looking for	5/14/2012
+5	9	11	Lots of power yet so lightweight!	4/19/2012
+1	9	20	DO NOT BUY * Does not work overseas!	4/18/2012
+5	16	19	Great small dryer	9/29/2010
